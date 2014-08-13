@@ -1,8 +1,8 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2015;
-$quarter = 2;
+$year = 2014;
+$quarter = 3;
 
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">'."\n";
@@ -46,61 +46,7 @@ for ($i=0;$i<22;$i++){
 	}
 }
 
-// Page 7
-$offset_x = 155.5;
-$offset_y = 7;
-$offset   = 8.3;
-for($i=0;$i<10;$i++){
-	echo '<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.(($i*$offset)+$offset_y).'mm" x2="'.($offset_x+60.25).'mm" y2="'.(($i*$offset)+$offset_y).'mm"/>'."\n";
-}
-
-
-// Page 6
-$offset_x = (222.75);
-$offset_y = 31.6;
-$offset   = 8.6071428571;
-
-echo '<text x="-290mm" y="-90mm" transform="rotate(180 0,0)" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3)).'</text>';
-echo '<g transform="rotate(180 0,0)" >
-	<text x="'.(-297+11.3035714286).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-	<text x="'.(-297+19.9107142857).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
-	<text x="'.(-297+28.5178571429).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.(-297+37.125).'mm"         y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
-	<text x="'.(-297+45.7321428571).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.(-297+54.33928571435).'mm" y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
-	<text x="'.(-297+62.9464285714).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-</g>';
-$offset_x = $offset_x+7;
-for($i=0;$i<6;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.(105-(($i*$offset)+$offset_y)).'mm" x2="'.($offset_x+60.25).'mm" y2="'.(105-(($i*$offset)+$offset_y)).'mm"/>';
-}
-for($i=0;$i<8;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.(($i*$offset)+$offset_x).'mm" y1="'.(105-($offset_y)).'mm" x2="'.(($i*$offset)+$offset_x).'mm" y2="'.(105-($offset_y+43)).'mm"/>';
-}
-
-
-
-// Page 2
-echo '<text x="7mm" y="120mm" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3-2)).'</text>';
-echo '<g>
-	<text x="11.3035714286mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-	<text x="19.9107142857mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
-	<text x="28.5178571429mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="37.125mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
-	<text x="45.7321428571mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="54.33928571435mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
-	<text x="62.9464285714mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-</g>';
-$offset_x = 7;
-$offset_y = 134.1;
-$offset   = 8.6071428571;
-for($i=0;$i<6;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.((($i*$offset)+$offset_y)).'mm" x2="'.($offset_x+60.25).'mm" y2="'.((($i*$offset)+$offset_y)).'mm"/>'."\n";
-}
-for($i=0;$i<8;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.(($i*$offset)+$offset_x).'mm" y1="'.(($offset_y)).'mm" x2="'.(($i*$offset)+$offset_x).'mm" y2="'.(($offset_y+43)).'mm"/>'."\n";
-}
-
+// Logo in box
 echo '<rect x="94.95mm" y="13.85mm" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="32.952mm" height="10.96mm"/>
 <g>
 	<path fill="#000000" d="M351.238,55.183c0,1.231-0.441,2.281-1.324,3.146c-0.881,0.865-1.957,1.298-3.225,1.298
@@ -158,6 +104,65 @@ echo '<rect x="94.95mm" y="13.85mm" fill="#FFFFFF" stroke="#000000" stroke-width
 		C276.567,52.633,277.044,50.296,278,48.293z"/>
 </g>';
 
+
+// Page 7
+$offset_x = 155.5;
+$offset_y = 7;
+$offset   = 8.3;
+for($i=0;$i<10;$i++){
+	echo '<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.(($i*$offset)+$offset_y).'mm" x2="'.($offset_x+60.25).'mm" y2="'.(($i*$offset)+$offset_y).'mm"/>'."\n";
+}
+
+
+// Page 6
+$offset_x = (222.75);
+$offset_y = 31.6;
+$offset   = 8.6071428571;
+
+echo '<text x="-290mm" y="-90mm" transform="rotate(180 0,0)" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3)).'</text>';
+echo '<g transform="rotate(180 0,0)" >
+	<text x="'.(-297+11.3035714286).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
+	<text x="'.(-297+19.9107142857).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
+	<text x="'.(-297+28.5178571429).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.(-297+37.125).'mm"         y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
+	<text x="'.(-297+45.7321428571).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.(-297+54.33928571435).'mm" y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="'.(-297+62.9464285714).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
+</g>';
+
+
+
+echo makeMonth($year,($quarter*3));
+
+
+
+
+// Page 2
+echo '<text x="7mm" y="120mm" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3-2)).'</text>';
+echo '<g>
+	<text x="11.3035714286mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
+	<text x="19.9107142857mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
+	<text x="28.5178571429mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="37.125mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
+	<text x="45.7321428571mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="54.33928571435mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="62.9464285714mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
+</g>';
+
+
+echo makeMonth($year,($quarter*3-2));
+/*
+$offset_x = 7;
+$offset_y = 134.1;
+$offset   = 8.6071428571;
+for($i=0;$i<6;$i++){
+	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.((($i*$offset)+$offset_y)).'mm" x2="'.($offset_x+60.25).'mm" y2="'.((($i*$offset)+$offset_y)).'mm"/>'."\n";
+}
+for($i=0;$i<8;$i++){
+	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.(($i*$offset)+$offset_x).'mm" y1="'.(($offset_y)).'mm" x2="'.(($i*$offset)+$offset_x).'mm" y2="'.(($offset_y+43)).'mm"/>'."\n";
+}
+*/
+
 // Page 3
 $offset_x = 81.25;
 $offset_y = 7;
@@ -180,24 +185,109 @@ echo '<g>
 	<text x="'.($offset_x+54.33928571435).'mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
 	<text x="'.($offset_x+62.9464285714).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 </g>';
-$offset_x = $offset_x+7;
-for($i=0;$i<6;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.((($i*$offset)+$offset_y)).'mm" x2="'.($offset_x+60.25).'mm" y2="'.((($i*$offset)+$offset_y)).'mm"/>'."\n";
-}
-for($i=0;$i<8;$i++){
-	echo '<line fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" x1="'.(($i*$offset)+$offset_x).'mm" y1="'.(($offset_y)).'mm" x2="'.(($i*$offset)+$offset_x).'mm" y2="'.(($offset_y+43)).'mm"/>'."\n";
-}
+
+echo makeMonth($year,($quarter*3-1));
+
 
 // Page 5
 $offset_x = 229.75;
 $offset_y = 7;
-$offset   = 8.3;
+$offset   = 8.6071428571;
 for($i=0;$i<10;$i++){
 	echo '<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="'.$offset_x.'mm" y1="'.(210-(($i*$offset)+$offset_y)).'mm" x2="'.($offset_x+60.25).'mm" y2="'.(210-(($i*$offset)+$offset_y)).'mm"/>'."\n";
 }
 
 
 echo '</svg>';
+
+function makeMonth($year,$month_number){
+	$svg = '';
+	$current_month = strtotime($year.'-'.$month_number.'-01');
+	$first_day = date('w',$current_month);
+	$days_in_month = date('t',$current_month);
+	
+	$pad_days = 0 - $first_day;
+	$total_days = abs($pad_days) + $days_in_month;
+	$total_weeks = ceil($total_days/7);
+	$max_days = $total_weeks*7;
+	
+	$start_week = strtotime('-'.$first_day.' days',$current_month);
+	
+	for($i=0;$i<$max_days;$i++){
+		$svg .= makeBox($month_number,$i,$start_week);
+		$start_week += 24*60*60;
+	}
+	
+	
+	return $svg;
+}
+
+function makeBox($month_number, $count, $date_time){
+	$svg = '';
+	$day_number   = date('j',$date_time);
+	$box_size   = 8.6071428571;
+	
+	$counter_x = ($count%7);
+	$counter_y = floor($count/7);
+	
+	$offset_dot = 2;
+	$inverted = false;
+	
+	if ($month_number == 1 || $month_number == 4 || $month_number == 7 || $month_number == 10){
+		$offset_x = 7;
+		$offset_y = 134.1;
+		$offset_dot = 2;
+	} elseif ($month_number == 2 || $month_number == 5 || $month_number == 8 || $month_number == 11){
+		$offset_x = 155.5;
+		$offset_y = 134.1;
+	} else {
+		$offset_x = 7;
+		$offset_y = 134.1;
+		$offset_dot = 2;
+		/*
+		$offset_x = (222.75+7);
+		$offset_y = 31.6;
+		$offset_dot = ($box_size-$offset_dot);
+		*/
+		$inverted = true;
+	}
+	
+	if ($inverted){
+		$svg .= '<g transform="rotate(180 0,0) translate(-843mm,-589mm)">';
+	} else {
+		$svg .= '<g>';
+	}
+	$day_of_week = date('w',$date_time);
+	$line_color = false;
+	// Weekend Check
+	if ($day_of_week == 0 || $day_of_week == 6){ $line_color = '#DCDDDE'; }
+	// Other Month Check
+	if ($month_number != date('n',$date_time)){  $line_color = '#939598'; }
+
+	// Lines and dot for weekends and other months
+	if ($line_color != false){
+		for($i=1;$i<8;$i++){
+			$svg .= '<line x1="'.($offset_x+($counter_x*$box_size)+(($box_size/8)*$i)).'mm" y1="'.($offset_y+($counter_y*$box_size)).'mm" x2="'.($offset_x+($counter_x*$box_size)+$box_size).'mm" y2="'.($offset_y+($counter_y*$box_size)+$box_size-(($box_size/8)*$i)).'mm" stroke="'.$line_color.'" stroke-width="0.25" stroke-miterlimit="10"  />'."\n";
+		}
+		$svg .= '<line x1="'.($offset_x+($counter_x*$box_size)).'mm" y1="'.($offset_y+($counter_y*$box_size)).'mm" x2="'.($offset_x+($counter_x*$box_size)+$box_size).'mm" y2="'.($offset_y+($counter_y*$box_size)+$box_size).'mm" stroke="'.$line_color.'" stroke-width="0.25" stroke-miterlimit="10"  />'."\n";
+		for($i=1;$i<8;$i++){
+			$svg .= '<line x1="'.($offset_x+($counter_x*$box_size)).'mm" y1="'.($offset_y+($counter_y*$box_size)+(($box_size/8)*$i)).'mm" x2="'.($offset_x+($counter_x*$box_size)+$box_size-(($box_size/8)*$i)).'mm" y2="'.($offset_y+($counter_y*$box_size)+$box_size).'mm" stroke="'.$line_color.'" stroke-width="0.25" stroke-miterlimit="10"  />'."\n";
+		}
+		$svg .= '<circle cx="'.($offset_x+($counter_x*$box_size)+$offset_dot).'mm" cy="'.($offset_y+($counter_y*$box_size)+$offset_dot).'mm" r="1.442mm" fill="#FFFFFF" stroke="none" stroke-miterlimit="10" />'."\n";
+	}
+	
+	// day number
+	$x_text_offset = .6;
+	if ($day_number < 10){ $x_text_offset = .3; }
+	$svg .= '<text x="'.($offset_x+($counter_x*$box_size)+$offset_dot-($offset_dot*$x_text_offset)).'mm"  y="'.($offset_y+($counter_y*$box_size)+$offset_dot+($offset_dot*.4)).'mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="6">'.$day_number.'</text>'."\n";
+	
+	// Box to hide edges
+	$svg .= '<rect x="'.($offset_x+($counter_x*$box_size)).'mm" y="'.($offset_y+($counter_y*$box_size)).'mm" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="'.$box_size.'mm" height="'.$box_size.'mm"/>'."\n";
+	
+	$svg .= '</g>';
+	
+	return $svg;
+}
 
 function getMonthName($month_number){
 	switch($month_number){
