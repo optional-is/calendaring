@@ -23,14 +23,14 @@ for($i=1;$i<14;$i++){
 
 // days of week at the top
 for($i=0;$i<4;$i++){
-	echo '<text text-anchor="middle" y="8mm" x="'.(($i*74.25)+(3*10.6)+5.3).'mm" font-family="\'Futura-Medium\'" font-size="24">0'.$year.'–Q'.($i+1).'</text>';
+	echo '<text text-anchor="middle" y="8mm" x="'.(($i*74.25)+(3*10.6)+5.3).'mm" font-family="\'Futura-Medium\'" font-size="24">0'.$year.'Q'.($i+1).'</text>';
 	echo '
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(0*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">m</text>
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(1*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">t</text>
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(2*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">w</text>
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(3*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">t</text>
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(4*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">f</text>
-	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(5*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">s</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(0*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">s</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(1*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">m</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(2*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">t</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(3*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">w</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(4*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">t</text>
+	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(5*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">f</text>
 	<text text-anchor="middle" y="14mm" x="'.(($i*74.25)+(6*10.6)+5.3).'mm" font-family="\'HelveticaNeue\'" font-size="9">s</text>
 	';
 }
@@ -50,16 +50,16 @@ for($i=1;$i<28;$i++){
 
 // Start adding days
 $firstDay = strtotime($year.'-01-01');
-$dayOfWeek = date('N',$firstDay);
+$dayOfWeek = date('w',$firstDay);
 $offset = 0;
 // Week 1
-if ($dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 4){
+//if ($dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 0){
 //	$offset = ($dayOfWeek-1);
-	$firstDay = strtotime('- '.($dayOfWeek-1).' days',$firstDay);
-} else {
-	// Week 52/53
-	$offset = (8-$dayOfWeek);
-}
+	$firstDay = strtotime('- '.($dayOfWeek).' days',$firstDay);
+//} else {
+//	// Week 52/53
+//	$offset = (8-$dayOfWeek);
+//}
 $counter = $offset;
 
 for($quarter=0;$quarter<4;$quarter++){
