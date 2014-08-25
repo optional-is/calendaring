@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2015;
+$year = 2014;
 $quarter = 4;
 
 echo '<?xml version="1.0" standalone="no"?>
@@ -121,12 +121,12 @@ $offset   = 8.6071428571;
 
 echo '<text x="-290mm" y="-90mm" transform="rotate(180 0,0)" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3)).'</text>';
 echo '<g transform="rotate(180 0,0)" >
-	<text x="'.(-297+11.3035714286).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-	<text x="'.(-297+19.9107142857).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
-	<text x="'.(-297+28.5178571429).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.(-297+37.125).'mm"         y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
-	<text x="'.(-297+45.7321428571).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.(-297+54.33928571435).'mm" y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="'.(-297+11.3035714286).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
+	<text x="'.(-297+19.9107142857).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.(-297+28.5178571429).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
+	<text x="'.(-297+37.125).'mm"         y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.(-297+45.7321428571).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="'.(-297+54.33928571435).'mm" y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 	<text x="'.(-297+62.9464285714).'mm"  y="-80mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 </g>';
 
@@ -140,12 +140,12 @@ echo makeMonth($year,($quarter*3));
 // Page 2
 echo '<text x="7mm" y="120mm" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3-2)).'</text>';
 echo '<g>
-	<text x="11.3035714286mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-	<text x="19.9107142857mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
-	<text x="28.5178571429mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="37.125mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
-	<text x="45.7321428571mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="54.33928571435mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="11.3035714286mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
+	<text x="19.9107142857mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="28.5178571429mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
+	<text x="37.125mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="45.7321428571mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="54.33928571435mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 	<text x="62.9464285714mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 </g>';
 
@@ -177,12 +177,12 @@ $offset   = 8.6071428571;
 
 echo '<text x="'.($offset_x+7).'mm" y="120mm" font-family="\'Futura-Medium\'" font-size="18">'.getMonthName(($quarter*3-1)).'</text>';
 echo '<g>
-	<text x="'.($offset_x+11.3035714286).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
-	<text x="'.($offset_x+19.9107142857).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
-	<text x="'.($offset_x+28.5178571429).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.($offset_x+37.125).'mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
-	<text x="'.($offset_x+45.7321428571).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
-	<text x="'.($offset_x+54.33928571435).'mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="'.($offset_x+11.3035714286).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">m</text>
+	<text x="'.($offset_x+19.9107142857).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.($offset_x+28.5178571429).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">w</text>
+	<text x="'.($offset_x+37.125).'mm"         y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">t</text>
+	<text x="'.($offset_x+45.7321428571).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">f</text>
+	<text x="'.($offset_x+54.33928571435).'mm" y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 	<text x="'.($offset_x+62.9464285714).'mm"  y="130mm" fill="#939598" font-family="\'Futura-Medium\'" font-size="12">s</text>
 </g>';
 
@@ -203,7 +203,7 @@ echo '</svg>';
 function makeMonth($year,$month_number){
 	$svg = '';
 	$current_month = strtotime($year.'-'.$month_number.'-01');
-	$first_day = date('w',$current_month);
+	$first_day = date('w',$current_month)-1;
 	$days_in_month = date('t',$current_month);
 	
 	$pad_days = 0 - $first_day;
