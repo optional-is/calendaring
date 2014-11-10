@@ -4,7 +4,11 @@ This is the repository where we store the code to more easily generate printable
 
 There are a few different kinds of calendars we use on a regular basis, you can read more about the specifics at http://optional.is/required/2014/08/27/paper-calendars/
 
-In this repository there is code to create an A4 quarterly calendar, four columns one sheet of paper. An A7 pocketmod booklet for each quarter. Finally an A5 notebook specific to your weeknumber.
+In this repository there is code to create an A4 quarterly calendar, four columns one sheet of paper. 
+
+![alt text](http://optional.is/required/wp-content/uploads/2014/08/A4-quarterly.png "02014 A4 Quarterly Calendar")
+
+An A7 pocketmod booklet for each quarter. Finally an A5 notebook specific to your weeknumber.
 
 ## See Also
 http://optional.is/required/2012/08/20/calendar-business-cards/
