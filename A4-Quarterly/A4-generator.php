@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2014;
+$year = 2016;
 
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">';
@@ -51,16 +51,19 @@ for($i=1;$i<28;$i++){
 // Start adding days
 $firstDay = strtotime($year.'-01-01');
 $dayOfWeek = date('w',$firstDay);
+
+
 $offset = 0;
 // Week 1
 if ($dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 4){
-	$offset = ($dayOfWeek-1);
+	$offset = 1;
   $firstDay = strtotime('- '.($dayOfWeek).' days',$firstDay);
 } else {
 	// Week 52/53
 	$offset = (8-$dayOfWeek);
 }
 $counter = $offset;
+
 
 for($quarter=0;$quarter<4;$quarter++){
 	for($week=0;$week<13;$week++){
