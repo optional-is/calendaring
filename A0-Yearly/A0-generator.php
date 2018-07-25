@@ -6,10 +6,14 @@ $year = 2019;
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">';
 
-echo '<svg xmlns="http://www.w3.org/2000/svg" version="1.1">';
+echo '<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="841mm" height="1189mm">';
 
 // Print out the A0 sheet
 echo '<rect x="0" y="0" width="841mm" height="1189mm" style="fill:rgb(255,255,255);stroke-width:.5;stroke:rgb(0,0,0)"/>'."\n";
+
+// Get the first week of the year
+$firstDay = strtotime($year.'-01-01');
+$dayOfWeek = date('w',$firstDay);
 
 $easter = easter_date($year);
 
@@ -34,11 +38,22 @@ $holidays = array('05-01'=>'May Day',
 					);
 
 // Old Icelandic Months (right aligned) (Get these dynamically)
-$oi_months = array('02-15'=>'Þorri');
+// Inefficient, but works
+$oi_months = array();
 
-// Get the first week of the year
-$firstDay = strtotime($year.'-01-01');
-$dayOfWeek = date('w',$firstDay);
+include('../old_icelandic_calendar.php');
+$oi_date = $firstDay;
+for($i=0;$i<365;$i++){
+	//echo $i;
+	$OIDate = new OldIcelandicDate(date('Y',$oi_date),date('n',$oi_date),date('j',$oi_date));
+	if ((int)($OIDate->day) == 1){
+		$oi_months[date('m-d',$oi_date)] = $OIDate->month_name;
+	}
+
+	$oi_date = strtotime('+1 day',$oi_date);
+	
+}
+
 
 $offset = 0;
 // Week 1
