@@ -31,10 +31,17 @@ $holidays = array('05-01'=>'May Day',
 				  date('m-d',strtotime('-3 days',$easter))=>'Holy Thursday',
 				  date('m-d',strtotime('+39 days',$easter))=>'Ascension',
 				  date('m-d',strtotime('+49 days',$easter))=>'Whit Sunday',
-				  date('m-d',strtotime('+50 days',$easter))=>'Whit Monday'
-				  // Sjomannadagurinn
-				  // Verslunamanna
-				  // First Day of Summer
+				  date('m-d',strtotime('+50 days',$easter))=>'Whit Monday',
+				  date('m-d',strtotime('First Sunday June '.$year))=>'Sjomannadagurinn',
+				  date('m-d',strtotime('First Monday August '.$year))=>'Verslunamanna',
+				  // First Day of Summer (Added in Old Icelandic List)
+
+				  // Birthdays!
+				  '05-29'=>'Brian',
+				  '05-14'=>'Ninja',
+				  '05-04'=>'Erik Jaki',
+				  '02-24'=>'Orri Jarl',
+
 					);
 
 // Old Icelandic Months (right aligned) (Get these dynamically)
@@ -48,6 +55,9 @@ for($i=0;$i<365;$i++){
 	$OIDate = new OldIcelandicDate(date('Y',$oi_date),date('n',$oi_date),date('j',$oi_date));
 	if ((int)($OIDate->day) == 1){
 		$oi_months[date('m-d',$oi_date)] = $OIDate->month_name;
+		if ($OIDate->month == 6){
+			$holidays[date('m-d',$oi_date)] = "Sumardagurinn fyrsti";
+		}
 	}
 
 	$oi_date = strtotime('+1 day',$oi_date);
