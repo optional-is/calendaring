@@ -3,6 +3,39 @@ date_default_timezone_set('Atlantic/Reykjavik');
 
 $year = 2019;
 
+// Switch these to what ever language you want
+function translate_month_name($en_month){
+	// If you want custom months comment the next line and replace the strings below
+	//return $en_month;
+
+	switch($en_month){
+		case 'MAY':
+			return 'MAÍ';
+			break;
+		case 'JUN':
+			return 'JÚN';
+			break;
+		case 'JUL':
+			return 'JÚL';
+			break;
+		case 'AUG':
+			return 'ÁGÚ';
+			break;
+		case 'OCT':
+			return 'OKT';
+			break;
+		case 'NOV':
+			return 'NÓV';
+			break;
+		case 'DEC':
+			return 'DES';
+			break;
+		default:
+			return $en_month;
+			break;
+	}
+}
+
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">';
 
@@ -37,10 +70,9 @@ $holidays = array('05-01'=>'May Day',
 				  // First Day of Summer (Added in Old Icelandic List)
 
 				  // Birthdays!
-				  '05-29'=>'Brian',
-				  '05-14'=>'Ninja',
-				  '05-04'=>'Erik Jaki',
-				  '02-24'=>'Orri Jarl',
+				  // MM-DD => <Display String>
+				  '05-29'=>'• Brian\'s Birthday',
+
 
 					);
 
@@ -89,7 +121,7 @@ for($i=0;$i<4;$i++){
 		if ($j%92 != 91){
 			if (date('j',$currentDay)==1){
 				$thickness = 4;
-				$dayString = strtoupper(date('M',$currentDay));
+				$dayString = translate_month_name(strtoupper(date('M',$currentDay)));
 			}
 		}
 
