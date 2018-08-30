@@ -71,7 +71,20 @@ $holidays = array('05-01'=>'May Day',
 
 				  // Birthdays!
 				  // MM-DD => <Display String>
-				  '05-29'=>'• Brian\'s Birthday',
+				  '05-29'=>'• Brian',
+				  '05-14'=>'• Ninja',
+				  '05-04'=>'• Erik Jaki',
+				  '02-24'=>'• Orri Jarl',
+				  '02-09'=>'• Bergþóra',
+				  '02-15'=>'• Hákon/Jósep',
+				  '05-24'=>'• Lóa',
+				  '06-11'=>'• Sóley',
+				  '06-18'=>'• Jörundur',
+				  '07-01'=>'• Hinrik',
+				  '07-25'=>'• Ómar',
+				  '09-05'=>'• Ingibjörg',
+				  '11-30'=>'• Hekla',
+				  '12-12'=>'• Gunnar'
 
 
 					);
