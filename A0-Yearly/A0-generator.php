@@ -52,41 +52,28 @@ $easter = easter_date($year);
 
 // Holiday list (Add movable holidays)
 // Translate and add as needed
-$holidays = array('05-01'=>'May Day',
-				  '01-01'=>'New Year\'s Day',
-				  '06-17'=>'National Day',
-				  '12-24'=>'Christmas Eve',
-				  '12-25'=>'Christmas Day',
-				  '12-26'=>'Day After Christmas',
-				  date('m-d',$easter)=>'Easter',
-				  date('m-d',strtotime('+1 days',$easter))=>'Easter Monday',
-				  date('m-d',strtotime('-2 days',$easter))=>'Good Friday',
-				  date('m-d',strtotime('-3 days',$easter))=>'Holy Thursday',
-				  date('m-d',strtotime('+39 days',$easter))=>'Ascension',
-				  date('m-d',strtotime('+49 days',$easter))=>'Whit Sunday',
-				  date('m-d',strtotime('+50 days',$easter))=>'Whit Monday',
+$holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
+				  '01-01'=>'Nýársdagur',//'New Year\'s Day',
+				  '06-17'=>'Þjóðhátíðardagurinn', //'National Day',
+				  '10-24'=>'Kvennafrídagurinn',//'Women\'s Day Off',
+				  '12-24'=>'Aðfangadagur',//'Christmas Eve',
+				  '12-25'=>'Jóladagur',//'Christmas Day',
+				  '12-26'=>'Annar í jólum', //'Day After Christmas',
+				  '12-31'=>'Gamlársdagur', // 'New Year\'s Eve',
+				  date('m-d',$easter)=>'Páskadagur',//'Easter',
+				  date('m-d',strtotime('+1 days',$easter))=>'Annar í páskum',//'Easter Monday',
+				  date('m-d',strtotime('-2 days',$easter))=>'Föstudagurinn langi',//'Good Friday',
+				  date('m-d',strtotime('-3 days',$easter))=>'Skírdagur',//'Holy Thursday',
+				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
+				  date('m-d',strtotime('+49 days',$easter))=>'Hvítasunnudagur',//'Whit Sunday',
+				  date('m-d',strtotime('+50 days',$easter))=>'Annar í hvítasunnu',//'Whit Monday',
 				  date('m-d',strtotime('First Sunday June '.$year))=>'Sjomannadagurinn',
 				  date('m-d',strtotime('First Monday August '.$year))=>'Verslunamanna',
 				  // First Day of Summer (Added in Old Icelandic List)
 
 				  // Birthdays!
 				  // MM-DD => <Display String>
-				  '05-29'=>'• Brian',
-				  '05-14'=>'• Ninja',
-				  '05-04'=>'• Erik Jaki',
-				  '02-24'=>'• Orri Jarl',
-				  '02-09'=>'• Bergþóra',
-				  '02-15'=>'• Hákon/Jósep',
-				  '05-24'=>'• Lóa',
-				  '06-11'=>'• Sóley',
-				  '06-18'=>'• Jörundur',
-				  '07-01'=>'• Hinrik',
-				  '07-25'=>'• Ómar',
-				  '09-05'=>'• Ingibjörg',
-				  '11-30'=>'• Hekla',
-				  '12-12'=>'• Gunnar'
-
-
+				  //'05-29'=>'• Brian',
 					);
 
 // Old Icelandic Months (right aligned) (Get these dynamically)
@@ -102,6 +89,9 @@ for($i=0;$i<365;$i++){
 		$oi_months[date('m-d',$oi_date)] = $OIDate->month_name;
 		if ($OIDate->month == 6){
 			$holidays[date('m-d',$oi_date)] = "Sumardagurinn fyrsti";
+		}
+		if ($OIDate->month == 0){
+			$holidays[date('m-d',$oi_date)] = "Kjötsúpudagurinn";
 		}
 	}
 

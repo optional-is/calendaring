@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2016;
+$year = 2019;
 
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">'."\n";
@@ -151,7 +151,7 @@ function makeQuarter($year,$month_number){
 	
 	$pad_days = 0 - $first_day;
 	$total_days = abs($pad_days) + $days_in_month;
-	$total_weeks = ceil($total_days/7);
+	$total_weeks = floor($total_days/7);
 	$max_days = $total_weeks*7;
 	
 	$start_week = strtotime('-'.$first_day.' days',$current_month);
