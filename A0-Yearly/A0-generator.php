@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2019;
+$year = 2020;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){

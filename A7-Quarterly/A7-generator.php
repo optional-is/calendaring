@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2019;
+$year = 2020;
 $quarter = 4;
 
 echo '<?xml version="1.0" standalone="no"?>
