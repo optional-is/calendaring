@@ -54,7 +54,10 @@ $easter = easter_date($year);
 // Translate and add as needed
 $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  '01-01'=>'Nýársdagur',//'New Year\'s Day',
+				  '01-06'=>'Þrettándinn',// Twelfth night
 				  '06-17'=>'Þjóðhátíðardagurinn', //'National Day',
+				  '06-19'=>'Kvenréttindadagurinn',
+				  '06-24'=>'Jónsmessa',
 				  '10-24'=>'Kvennafrídagurinn',//'Women\'s Day Off',
 				  '12-24'=>'Aðfangadagur',//'Christmas Eve',
 				  '12-25'=>'Jóladagur',//'Christmas Day',
@@ -63,17 +66,56 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',$easter)=>'Páskadagur',//'Easter',
 				  date('m-d',strtotime('+1 days',$easter))=>'Annar í páskum',//'Easter Monday',
 				  date('m-d',strtotime('-2 days',$easter))=>'Föstudagurinn langi',//'Good Friday',
+				  '02-24'=>'Bolludagur',// Bun Day
+				  '02-25'=>'Sprengidagur',// Pancake Tuesday
+				  '02-26'=>'Öskudagur',// Ash Wednesday
+				  date('m-d',strtotime('-7 days',$easter))=>'Pálmasunnudagur',//'Holy Thursday',
 				  date('m-d',strtotime('-3 days',$easter))=>'Skírdagur',//'Holy Thursday',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
 				  date('m-d',strtotime('+49 days',$easter))=>'Hvítasunnudagur',//'Whit Sunday',
 				  date('m-d',strtotime('+50 days',$easter))=>'Annar í hvítasunnu',//'Whit Monday',
 				  date('m-d',strtotime('First Sunday June '.$year))=>'Sjomannadagurinn',
 				  date('m-d',strtotime('First Monday August '.$year))=>'Verslunamanna',
+				  date('m-d',strtotime('Second Sunday May '.$year))=>'Mæðradagurinn',
 				  // First Day of Summer (Added in Old Icelandic List)
+
+
+				  // Yule lads
+				  '12-12'=>'Stekkjarstaur',
+				  '12-13'=>'Giljagaur',
+				  '12-14'=>'Stúfur',
+				  '12-15'=>'Þvörusleikir',
+				  '12-16'=>'Pottaskefill',
+				  '12-17'=>'Askasleikir',
+				  '12-18'=>'Hurðaskellir',
+				  '12-19'=>'Skyrgámur',
+				  '12-20'=>'Bjúgnakrækir',
+				  '12-21'=>'Gluggagægir',
+				  '12-22'=>'Gáttaþefur',
+				  '12-23'=>'Ketkrókur',
+				  '12-24'=>'Kertasníkir',
+
 
 				  // Birthdays!
 				  // MM-DD => <Display String>
 				  //'05-29'=>'• Brian',
+				  /*
+					'02-09'=>'• Bergthora',
+					'02-15'=>'• Hakon/Josepf',
+					'02-24'=>'• Orri',
+					'05-04'=>'• Erik',
+					'05-14'=>'• Ninja',
+					'05-24'=>'• Lóa',
+					'05-29'=>'• Brian',
+					'06-11'=>'• Soley',
+					'06-18'=>'• Jörundur',
+					'07-01'=>'• Hinrik',
+					'07-25'=>'• Omar',
+					'09-05'=>'• Ingibjorg',
+					'11-30'=>'• Hekla',
+					'12-12'=>'• Gunni Alexander'
+					*/
+
 					);
 
 // Old Icelandic Months (right aligned) (Get these dynamically)
@@ -92,6 +134,12 @@ for($i=0;$i<365;$i++){
 		}
 		if ($OIDate->month == 0){
 			$holidays[date('m-d',$oi_date)] = "Kjötsúpudagurinn";
+		}
+		if ($OIDate->month == 3){
+			$holidays[date('m-d',$oi_date)] = "Bóndadagur";
+		}
+		if ($OIDate->month == 4){
+			$holidays[date('m-d',$oi_date)] = "Konudagur";
 		}
 	}
 
@@ -142,12 +190,19 @@ for($i=0;$i<4;$i++){
 			
 			// check for any holidays today
 			if (in_array(date('m-d',$currentDay), array_keys($holidays))){
-				echo '<text text-anchor="start" y="'.(($j*12.857)+19).'mm" x="'.(($i*207.75)+41).'mm" font-family="\'HelveticaNeue\'" font-size="21" fill="#585858" style="font-weight: bold;">'.$holidays[date('m-d',$currentDay)].'</text>'."\n";	
+				$fillcolor = '#9E9E9E';
+				if ($j%7 == 5 || $j%7 == 6) {
+					$fillcolor = '#ffffff';
+				}
+				echo '<text text-anchor="start" y="'.(($j*12.857)+19).'mm" x="'.(($i*207.75)+41).'mm" font-family="\'HelveticaNeue\'" font-size="21" fill="'.$fillcolor.'" style="font-weight: bold;">'.$holidays[date('m-d',$currentDay)].'</text>'."\n";	
 			}
 
 			// check for any old icelandic months starting today
 			if (in_array(date('m-d',$currentDay), array_keys($oi_months))){
-				echo '<text text-anchor="end" y="'.(($j*12.857)+19).'mm" x="'.(($i*207.75)+206.75).'mm" font-family="\'HelveticaNeue\'" font-size="21" fill="#585858" style="font-weight: bold;">'.$oi_months[date('m-d',$currentDay)].'</text>'."\n";	
+				$fillcolor = '#585858';
+				if ($j%7 == 5 || $j%7 == 6) {
+					$fillcolor = '#ffffff';
+				}				echo '<text text-anchor="end" y="'.(($j*12.857)+19).'mm" x="'.(($i*207.75)+206.75).'mm" font-family="\'HelveticaNeue\'" font-size="21" fill="'.$fillcolor.'" style="font-weight: bold;">'.$oi_months[date('m-d',$currentDay)].'</text>'."\n";	
 			}
 
 			$currentDay = strtotime('+1 days',$currentDay);

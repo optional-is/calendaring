@@ -1,870 +1,897 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="841mm" height="1189mm"><rect x="0" y="0" width="841mm" height="1189mm" style="fill:rgb(255,255,255);stroke-width:.5;stroke:rgb(0,0,0)"/>
-<line x1="10mm" y1="10mm" x2="207.75mm" y2="10mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="19mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="10mm" y1="22.857mm" x2="207.75mm" y2="22.857mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="31.857mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<text text-anchor="start" y="31.857mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Gamlársdagur</text>
-<line x1="10mm" y1="35.714mm" x2="207.75mm" y2="35.714mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="44.714mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JAN</text>
-<text text-anchor="start" y="44.714mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Nýársdagur</text>
-<line x1="10mm" y1="48.571mm" x2="207.75mm" y2="48.571mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="57.571mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="10mm" y1="61.428mm" x2="207.75mm" y2="61.428mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="70.428mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<rect x="10mm" y="74.285mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="74.285mm" x2="207.75mm" y2="74.285mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="83.285mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<rect x="10mm" y="87.142mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="87.142mm" x2="207.75mm" y2="87.142mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="96.142mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="10mm" y1="99.999mm" x2="207.75mm" y2="99.999mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="108.999mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="10mm" y1="112.856mm" x2="207.75mm" y2="112.856mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="121.856mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="10mm" y1="125.713mm" x2="207.75mm" y2="125.713mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="134.713mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="10mm" y1="138.57mm" x2="207.75mm" y2="138.57mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="147.57mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="10mm" y1="151.427mm" x2="207.75mm" y2="151.427mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="160.427mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<rect x="10mm" y="164.284mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="164.284mm" x2="207.75mm" y2="164.284mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="173.284mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<rect x="10mm" y="177.141mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="177.141mm" x2="207.75mm" y2="177.141mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="186.141mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="10mm" y1="189.998mm" x2="207.75mm" y2="189.998mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="198.998mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="10mm" y1="202.855mm" x2="207.75mm" y2="202.855mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="211.855mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="10mm" y1="215.712mm" x2="207.75mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="224.712mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="10mm" y1="228.569mm" x2="207.75mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="237.569mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="10mm" y1="241.426mm" x2="207.75mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="250.426mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<rect x="10mm" y="254.283mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="254.283mm" x2="207.75mm" y2="254.283mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="263.283mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<rect x="10mm" y="267.14mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="267.14mm" x2="207.75mm" y2="267.14mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="276.14mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="10mm" y1="279.997mm" x2="207.75mm" y2="279.997mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="288.997mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="10mm" y1="292.854mm" x2="207.75mm" y2="292.854mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="301.854mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="10mm" y1="305.711mm" x2="207.75mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="314.711mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="10mm" y1="318.568mm" x2="207.75mm" y2="318.568mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="327.568mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="10mm" y1="331.425mm" x2="207.75mm" y2="331.425mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="340.425mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="end" y="340.425mm" x="206.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Þorri</text>
-<rect x="10mm" y="344.282mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="344.282mm" x2="207.75mm" y2="344.282mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="353.282mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<rect x="10mm" y="357.139mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="357.139mm" x2="207.75mm" y2="357.139mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="366.139mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="10mm" y1="369.996mm" x2="207.75mm" y2="369.996mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="378.996mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="10mm" y1="382.853mm" x2="207.75mm" y2="382.853mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="391.853mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="10mm" y1="395.71mm" x2="207.75mm" y2="395.71mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="404.71mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="10mm" y1="408.567mm" x2="207.75mm" y2="408.567mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="417.567mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="10mm" y1="421.424mm" x2="207.75mm" y2="421.424mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="430.424mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<rect x="10mm" y="434.281mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="434.281mm" x2="207.75mm" y2="434.281mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="443.281mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">FEB</text>
-<rect x="10mm" y="447.138mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="447.138mm" x2="207.75mm" y2="447.138mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="456.138mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="10mm" y1="459.995mm" x2="207.75mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="468.995mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="10mm" y1="472.852mm" x2="207.75mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="481.852mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="10mm" y1="485.709mm" x2="207.75mm" y2="485.709mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="494.709mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="10mm" y1="498.566mm" x2="207.75mm" y2="498.566mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="507.566mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="10mm" y1="511.423mm" x2="207.75mm" y2="511.423mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="520.423mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<rect x="10mm" y="524.28mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="524.28mm" x2="207.75mm" y2="524.28mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="533.28mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<rect x="10mm" y="537.137mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="537.137mm" x2="207.75mm" y2="537.137mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="546.137mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="10mm" y1="549.994mm" x2="207.75mm" y2="549.994mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="558.994mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="10mm" y1="562.851mm" x2="207.75mm" y2="562.851mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="571.851mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="10mm" y1="575.708mm" x2="207.75mm" y2="575.708mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="584.708mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="10mm" y1="588.565mm" x2="207.75mm" y2="588.565mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="597.565mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="10mm" y1="601.422mm" x2="207.75mm" y2="601.422mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="610.422mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<rect x="10mm" y="614.279mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="614.279mm" x2="207.75mm" y2="614.279mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="623.279mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<rect x="10mm" y="627.136mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="627.136mm" x2="207.75mm" y2="627.136mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="636.136mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="10mm" y1="639.993mm" x2="207.75mm" y2="639.993mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="648.993mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="10mm" y1="652.85mm" x2="207.75mm" y2="652.85mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="661.85mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="10mm" y1="665.707mm" x2="207.75mm" y2="665.707mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="674.707mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="10mm" y1="678.564mm" x2="207.75mm" y2="678.564mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="687.564mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="10mm" y1="691.421mm" x2="207.75mm" y2="691.421mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="700.421mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<rect x="10mm" y="704.278mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="704.278mm" x2="207.75mm" y2="704.278mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="713.278mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<rect x="10mm" y="717.135mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="717.135mm" x2="207.75mm" y2="717.135mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="726.135mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<text text-anchor="end" y="726.135mm" x="206.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Góa</text>
-<line x1="10mm" y1="729.992mm" x2="207.75mm" y2="729.992mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="738.992mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<line x1="10mm" y1="742.849mm" x2="207.75mm" y2="742.849mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="751.849mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="10mm" y1="755.706mm" x2="207.75mm" y2="755.706mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="764.706mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="10mm" y1="768.563mm" x2="207.75mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="777.563mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="10mm" y1="781.42mm" x2="207.75mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="790.42mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<rect x="10mm" y="794.277mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="794.277mm" x2="207.75mm" y2="794.277mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="803.277mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<rect x="10mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="807.134mm" x2="207.75mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="816.134mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">MAR</text>
-<line x1="10mm" y1="819.991mm" x2="207.75mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="828.991mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="10mm" y1="832.848mm" x2="207.75mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="841.848mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="10mm" y1="845.705mm" x2="207.75mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="854.705mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="10mm" y1="858.562mm" x2="207.75mm" y2="858.562mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="867.562mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="10mm" y1="871.419mm" x2="207.75mm" y2="871.419mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="880.419mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<rect x="10mm" y="884.276mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="884.276mm" x2="207.75mm" y2="884.276mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="893.276mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<rect x="10mm" y="897.133mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="897.133mm" x2="207.75mm" y2="897.133mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="906.133mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="10mm" y1="909.99mm" x2="207.75mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="918.99mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="10mm" y1="922.847mm" x2="207.75mm" y2="922.847mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="931.847mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="10mm" y1="935.704mm" x2="207.75mm" y2="935.704mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="944.704mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="10mm" y1="948.561mm" x2="207.75mm" y2="948.561mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="957.561mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="10mm" y1="961.418mm" x2="207.75mm" y2="961.418mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="970.418mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<rect x="10mm" y="974.275mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="974.275mm" x2="207.75mm" y2="974.275mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="983.275mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<rect x="10mm" y="987.132mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="987.132mm" x2="207.75mm" y2="987.132mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="996.132mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="10mm" y1="999.989mm" x2="207.75mm" y2="999.989mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1008.989mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="10mm" y1="1012.846mm" x2="207.75mm" y2="1012.846mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1021.846mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="10mm" y1="1025.703mm" x2="207.75mm" y2="1025.703mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1034.703mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="10mm" y1="1038.56mm" x2="207.75mm" y2="1038.56mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1047.56mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="10mm" y1="1051.417mm" x2="207.75mm" y2="1051.417mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1060.417mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<rect x="10mm" y="1064.274mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="1064.274mm" x2="207.75mm" y2="1064.274mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1073.274mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<rect x="10mm" y="1077.131mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="1077.131mm" x2="207.75mm" y2="1077.131mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1086.131mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="10mm" y1="1089.988mm" x2="207.75mm" y2="1089.988mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1098.988mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="10mm" y1="1102.845mm" x2="207.75mm" y2="1102.845mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1111.845mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="end" y="1111.845mm" x="206.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Einmánuður</text>
-<line x1="10mm" y1="1115.702mm" x2="207.75mm" y2="1115.702mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1124.702mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="10mm" y1="1128.559mm" x2="207.75mm" y2="1128.559mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1137.559mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="10mm" y1="1141.416mm" x2="207.75mm" y2="1141.416mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1150.416mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<rect x="10mm" y="1154.273mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="1154.273mm" x2="207.75mm" y2="1154.273mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1163.273mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<rect x="10mm" y="1167.13mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="10mm" y1="1167.13mm" x2="207.75mm" y2="1167.13mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1176.13mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="10mm" y1="1179.987mm" x2="207.75mm" y2="1179.987mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<line x1="217.75mm" y1="10mm" x2="415.5mm" y2="10mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="19mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="217.75mm" y1="22.857mm" x2="415.5mm" y2="22.857mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="31.857mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<line x1="217.75mm" y1="35.714mm" x2="415.5mm" y2="35.714mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="44.714mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">APR</text>
-<line x1="217.75mm" y1="48.571mm" x2="415.5mm" y2="48.571mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="57.571mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="217.75mm" y1="61.428mm" x2="415.5mm" y2="61.428mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="70.428mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<rect x="217.75mm" y="74.285mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="74.285mm" x2="415.5mm" y2="74.285mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="83.285mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<rect x="217.75mm" y="87.142mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="87.142mm" x2="415.5mm" y2="87.142mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="96.142mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="217.75mm" y1="99.999mm" x2="415.5mm" y2="99.999mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="108.999mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="217.75mm" y1="112.856mm" x2="415.5mm" y2="112.856mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="121.856mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="217.75mm" y1="125.713mm" x2="415.5mm" y2="125.713mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="134.713mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="217.75mm" y1="138.57mm" x2="415.5mm" y2="138.57mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="147.57mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<text text-anchor="start" y="147.57mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Skírdagur</text>
-<line x1="217.75mm" y1="151.427mm" x2="415.5mm" y2="151.427mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="160.427mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<text text-anchor="start" y="160.427mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Föstudagurinn langi</text>
-<rect x="217.75mm" y="164.284mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="164.284mm" x2="415.5mm" y2="164.284mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="173.284mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<rect x="217.75mm" y="177.141mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="177.141mm" x2="415.5mm" y2="177.141mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="186.141mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<text text-anchor="start" y="186.141mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Páskadagur</text>
-<line x1="217.75mm" y1="189.998mm" x2="415.5mm" y2="189.998mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="198.998mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<text text-anchor="start" y="198.998mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Annar í páskum</text>
-<line x1="217.75mm" y1="202.855mm" x2="415.5mm" y2="202.855mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="211.855mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="217.75mm" y1="215.712mm" x2="415.5mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="224.712mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="217.75mm" y1="228.569mm" x2="415.5mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="237.569mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="217.75mm" y1="241.426mm" x2="415.5mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="250.426mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<rect x="217.75mm" y="254.283mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="254.283mm" x2="415.5mm" y2="254.283mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="263.283mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<rect x="217.75mm" y="267.14mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="267.14mm" x2="415.5mm" y2="267.14mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="276.14mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="217.75mm" y1="279.997mm" x2="415.5mm" y2="279.997mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="288.997mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="217.75mm" y1="292.854mm" x2="415.5mm" y2="292.854mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="301.854mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="217.75mm" y1="305.711mm" x2="415.5mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="314.711mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="217.75mm" y1="318.568mm" x2="415.5mm" y2="318.568mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="327.568mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<text text-anchor="start" y="327.568mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sumardagurinn fyrsti</text>
-<text text-anchor="end" y="327.568mm" x="414.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Harpa</text>
-<line x1="217.75mm" y1="331.425mm" x2="415.5mm" y2="331.425mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="340.425mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<rect x="217.75mm" y="344.282mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="344.282mm" x2="415.5mm" y2="344.282mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="353.282mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<rect x="217.75mm" y="357.139mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="357.139mm" x2="415.5mm" y2="357.139mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="366.139mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="217.75mm" y1="369.996mm" x2="415.5mm" y2="369.996mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="378.996mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="217.75mm" y1="382.853mm" x2="415.5mm" y2="382.853mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="391.853mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="217.75mm" y1="395.71mm" x2="415.5mm" y2="395.71mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="404.71mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="217.75mm" y1="408.567mm" x2="415.5mm" y2="408.567mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="417.567mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="217.75mm" y1="421.424mm" x2="415.5mm" y2="421.424mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="430.424mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">MAÍ</text>
-<text text-anchor="start" y="430.424mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Verkalýðsdagurinn</text>
-<rect x="217.75mm" y="434.281mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="434.281mm" x2="415.5mm" y2="434.281mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="443.281mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<rect x="217.75mm" y="447.138mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="447.138mm" x2="415.5mm" y2="447.138mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="456.138mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="217.75mm" y1="459.995mm" x2="415.5mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="468.995mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="217.75mm" y1="472.852mm" x2="415.5mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="481.852mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="217.75mm" y1="485.709mm" x2="415.5mm" y2="485.709mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="494.709mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="217.75mm" y1="498.566mm" x2="415.5mm" y2="498.566mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="507.566mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="217.75mm" y1="511.423mm" x2="415.5mm" y2="511.423mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="520.423mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<rect x="217.75mm" y="524.28mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="524.28mm" x2="415.5mm" y2="524.28mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="533.28mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<rect x="217.75mm" y="537.137mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="537.137mm" x2="415.5mm" y2="537.137mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="546.137mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="217.75mm" y1="549.994mm" x2="415.5mm" y2="549.994mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="558.994mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="217.75mm" y1="562.851mm" x2="415.5mm" y2="562.851mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="571.851mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="217.75mm" y1="575.708mm" x2="415.5mm" y2="575.708mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="584.708mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="217.75mm" y1="588.565mm" x2="415.5mm" y2="588.565mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="597.565mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="217.75mm" y1="601.422mm" x2="415.5mm" y2="601.422mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="610.422mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<rect x="217.75mm" y="614.279mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="614.279mm" x2="415.5mm" y2="614.279mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="623.279mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<rect x="217.75mm" y="627.136mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="627.136mm" x2="415.5mm" y2="627.136mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="636.136mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="217.75mm" y1="639.993mm" x2="415.5mm" y2="639.993mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="648.993mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="217.75mm" y1="652.85mm" x2="415.5mm" y2="652.85mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="661.85mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="217.75mm" y1="665.707mm" x2="415.5mm" y2="665.707mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="674.707mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="217.75mm" y1="678.564mm" x2="415.5mm" y2="678.564mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="687.564mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<text text-anchor="start" y="687.564mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Uppstigningardagur</text>
-<line x1="217.75mm" y1="691.421mm" x2="415.5mm" y2="691.421mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="700.421mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<rect x="217.75mm" y="704.278mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="704.278mm" x2="415.5mm" y2="704.278mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="713.278mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<text text-anchor="end" y="713.278mm" x="414.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Skerpla</text>
-<rect x="217.75mm" y="717.135mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="717.135mm" x2="415.5mm" y2="717.135mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="726.135mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<line x1="217.75mm" y1="729.992mm" x2="415.5mm" y2="729.992mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="738.992mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="217.75mm" y1="742.849mm" x2="415.5mm" y2="742.849mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="751.849mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="217.75mm" y1="755.706mm" x2="415.5mm" y2="755.706mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="764.706mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="217.75mm" y1="768.563mm" x2="415.5mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="777.563mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="217.75mm" y1="781.42mm" x2="415.5mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="790.42mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<rect x="217.75mm" y="794.277mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="794.277mm" x2="415.5mm" y2="794.277mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="803.277mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<rect x="217.75mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="807.134mm" x2="415.5mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="816.134mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<text text-anchor="start" y="816.134mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Hvítasunnudagur</text>
-<line x1="217.75mm" y1="819.991mm" x2="415.5mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="828.991mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JÚN</text>
-<text text-anchor="start" y="828.991mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Annar í hvítasunnu</text>
-<line x1="217.75mm" y1="832.848mm" x2="415.5mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="841.848mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="217.75mm" y1="845.705mm" x2="415.5mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="854.705mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="217.75mm" y1="858.562mm" x2="415.5mm" y2="858.562mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="867.562mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="217.75mm" y1="871.419mm" x2="415.5mm" y2="871.419mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="880.419mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<rect x="217.75mm" y="884.276mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="884.276mm" x2="415.5mm" y2="884.276mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="893.276mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<rect x="217.75mm" y="897.133mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="897.133mm" x2="415.5mm" y2="897.133mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="906.133mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<text text-anchor="start" y="906.133mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sjomannadagurinn</text>
-<line x1="217.75mm" y1="909.99mm" x2="415.5mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="918.99mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="217.75mm" y1="922.847mm" x2="415.5mm" y2="922.847mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="931.847mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="217.75mm" y1="935.704mm" x2="415.5mm" y2="935.704mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="944.704mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="217.75mm" y1="948.561mm" x2="415.5mm" y2="948.561mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="957.561mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="217.75mm" y1="961.418mm" x2="415.5mm" y2="961.418mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="970.418mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<rect x="217.75mm" y="974.275mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="974.275mm" x2="415.5mm" y2="974.275mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="983.275mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<rect x="217.75mm" y="987.132mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="987.132mm" x2="415.5mm" y2="987.132mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="996.132mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="217.75mm" y1="999.989mm" x2="415.5mm" y2="999.989mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1008.989mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="217.75mm" y1="1012.846mm" x2="415.5mm" y2="1012.846mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1021.846mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="217.75mm" y1="1025.703mm" x2="415.5mm" y2="1025.703mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1034.703mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<text text-anchor="start" y="1034.703mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Þjóðhátíðardagurinn</text>
-<line x1="217.75mm" y1="1038.56mm" x2="415.5mm" y2="1038.56mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1047.56mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="217.75mm" y1="1051.417mm" x2="415.5mm" y2="1051.417mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1060.417mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<rect x="217.75mm" y="1064.274mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="1064.274mm" x2="415.5mm" y2="1064.274mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1073.274mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<rect x="217.75mm" y="1077.131mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="1077.131mm" x2="415.5mm" y2="1077.131mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1086.131mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="217.75mm" y1="1089.988mm" x2="415.5mm" y2="1089.988mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1098.988mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<text text-anchor="end" y="1098.988mm" x="414.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sólmánuður</text>
-<line x1="217.75mm" y1="1102.845mm" x2="415.5mm" y2="1102.845mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1111.845mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="217.75mm" y1="1115.702mm" x2="415.5mm" y2="1115.702mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1124.702mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<line x1="217.75mm" y1="1128.559mm" x2="415.5mm" y2="1128.559mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1137.559mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="217.75mm" y1="1141.416mm" x2="415.5mm" y2="1141.416mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1150.416mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<rect x="217.75mm" y="1154.273mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="1154.273mm" x2="415.5mm" y2="1154.273mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1163.273mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<rect x="217.75mm" y="1167.13mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="217.75mm" y1="1167.13mm" x2="415.5mm" y2="1167.13mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1176.13mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="217.75mm" y1="1179.987mm" x2="415.5mm" y2="1179.987mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<line x1="425.5mm" y1="10mm" x2="623.25mm" y2="10mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="19mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="425.5mm" y1="22.857mm" x2="623.25mm" y2="22.857mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="31.857mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="425.5mm" y1="35.714mm" x2="623.25mm" y2="35.714mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="44.714mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JÚL</text>
-<line x1="425.5mm" y1="48.571mm" x2="623.25mm" y2="48.571mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="57.571mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="425.5mm" y1="61.428mm" x2="623.25mm" y2="61.428mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="70.428mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<rect x="425.5mm" y="74.285mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="74.285mm" x2="623.25mm" y2="74.285mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="83.285mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<rect x="425.5mm" y="87.142mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="87.142mm" x2="623.25mm" y2="87.142mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="96.142mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="425.5mm" y1="99.999mm" x2="623.25mm" y2="99.999mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="108.999mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="425.5mm" y1="112.856mm" x2="623.25mm" y2="112.856mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="121.856mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="425.5mm" y1="125.713mm" x2="623.25mm" y2="125.713mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="134.713mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="425.5mm" y1="138.57mm" x2="623.25mm" y2="138.57mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="147.57mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="425.5mm" y1="151.427mm" x2="623.25mm" y2="151.427mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="160.427mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<rect x="425.5mm" y="164.284mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="164.284mm" x2="623.25mm" y2="164.284mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="173.284mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<rect x="425.5mm" y="177.141mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="177.141mm" x2="623.25mm" y2="177.141mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="186.141mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="425.5mm" y1="189.998mm" x2="623.25mm" y2="189.998mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="198.998mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="425.5mm" y1="202.855mm" x2="623.25mm" y2="202.855mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="211.855mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="425.5mm" y1="215.712mm" x2="623.25mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="224.712mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="425.5mm" y1="228.569mm" x2="623.25mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="237.569mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="425.5mm" y1="241.426mm" x2="623.25mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="250.426mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<rect x="425.5mm" y="254.283mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="254.283mm" x2="623.25mm" y2="254.283mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="263.283mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<rect x="425.5mm" y="267.14mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="267.14mm" x2="623.25mm" y2="267.14mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="276.14mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="425.5mm" y1="279.997mm" x2="623.25mm" y2="279.997mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="288.997mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="425.5mm" y1="292.854mm" x2="623.25mm" y2="292.854mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="301.854mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="425.5mm" y1="305.711mm" x2="623.25mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="314.711mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<text text-anchor="end" y="314.711mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sumarauki</text>
-<line x1="425.5mm" y1="318.568mm" x2="623.25mm" y2="318.568mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="327.568mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="425.5mm" y1="331.425mm" x2="623.25mm" y2="331.425mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="340.425mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<rect x="425.5mm" y="344.282mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="344.282mm" x2="623.25mm" y2="344.282mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="353.282mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<rect x="425.5mm" y="357.139mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="357.139mm" x2="623.25mm" y2="357.139mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="366.139mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<text text-anchor="end" y="366.139mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Heyannir</text>
-<line x1="425.5mm" y1="369.996mm" x2="623.25mm" y2="369.996mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="378.996mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="425.5mm" y1="382.853mm" x2="623.25mm" y2="382.853mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="391.853mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="425.5mm" y1="395.71mm" x2="623.25mm" y2="395.71mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="404.71mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="425.5mm" y1="408.567mm" x2="623.25mm" y2="408.567mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="417.567mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="425.5mm" y1="421.424mm" x2="623.25mm" y2="421.424mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="430.424mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<rect x="425.5mm" y="434.281mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="434.281mm" x2="623.25mm" y2="434.281mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="443.281mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">ÁGÚ</text>
-<rect x="425.5mm" y="447.138mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="447.138mm" x2="623.25mm" y2="447.138mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="456.138mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="425.5mm" y1="459.995mm" x2="623.25mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="468.995mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<text text-anchor="start" y="468.995mm" x="456.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Verslunamanna</text>
-<line x1="425.5mm" y1="472.852mm" x2="623.25mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="481.852mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="425.5mm" y1="485.709mm" x2="623.25mm" y2="485.709mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="494.709mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="425.5mm" y1="498.566mm" x2="623.25mm" y2="498.566mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="507.566mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="425.5mm" y1="511.423mm" x2="623.25mm" y2="511.423mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="520.423mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<rect x="425.5mm" y="524.28mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="524.28mm" x2="623.25mm" y2="524.28mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="533.28mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<rect x="425.5mm" y="537.137mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="537.137mm" x2="623.25mm" y2="537.137mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="546.137mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="425.5mm" y1="549.994mm" x2="623.25mm" y2="549.994mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="558.994mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="425.5mm" y1="562.851mm" x2="623.25mm" y2="562.851mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="571.851mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="425.5mm" y1="575.708mm" x2="623.25mm" y2="575.708mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="584.708mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="425.5mm" y1="588.565mm" x2="623.25mm" y2="588.565mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="597.565mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="425.5mm" y1="601.422mm" x2="623.25mm" y2="601.422mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="610.422mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<rect x="425.5mm" y="614.279mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="614.279mm" x2="623.25mm" y2="614.279mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="623.279mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<rect x="425.5mm" y="627.136mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="627.136mm" x2="623.25mm" y2="627.136mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="636.136mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="425.5mm" y1="639.993mm" x2="623.25mm" y2="639.993mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="648.993mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="425.5mm" y1="652.85mm" x2="623.25mm" y2="652.85mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="661.85mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="425.5mm" y1="665.707mm" x2="623.25mm" y2="665.707mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="674.707mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="425.5mm" y1="678.564mm" x2="623.25mm" y2="678.564mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="687.564mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="425.5mm" y1="691.421mm" x2="623.25mm" y2="691.421mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="700.421mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<rect x="425.5mm" y="704.278mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="704.278mm" x2="623.25mm" y2="704.278mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="713.278mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<rect x="425.5mm" y="717.135mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="717.135mm" x2="623.25mm" y2="717.135mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="726.135mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="425.5mm" y1="729.992mm" x2="623.25mm" y2="729.992mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="738.992mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<line x1="425.5mm" y1="742.849mm" x2="623.25mm" y2="742.849mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="751.849mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<text text-anchor="end" y="751.849mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Tvímánuður</text>
-<line x1="425.5mm" y1="755.706mm" x2="623.25mm" y2="755.706mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="764.706mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="425.5mm" y1="768.563mm" x2="623.25mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="777.563mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="425.5mm" y1="781.42mm" x2="623.25mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="790.42mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<rect x="425.5mm" y="794.277mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="794.277mm" x2="623.25mm" y2="794.277mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="803.277mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<rect x="425.5mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="807.134mm" x2="623.25mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="816.134mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="425.5mm" y1="819.991mm" x2="623.25mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="828.991mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<line x1="425.5mm" y1="832.848mm" x2="623.25mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="841.848mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">SEP</text>
-<line x1="425.5mm" y1="845.705mm" x2="623.25mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="854.705mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="425.5mm" y1="858.562mm" x2="623.25mm" y2="858.562mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="867.562mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="425.5mm" y1="871.419mm" x2="623.25mm" y2="871.419mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="880.419mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<rect x="425.5mm" y="884.276mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="884.276mm" x2="623.25mm" y2="884.276mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="893.276mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<rect x="425.5mm" y="897.133mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="897.133mm" x2="623.25mm" y2="897.133mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="906.133mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="425.5mm" y1="909.99mm" x2="623.25mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="918.99mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="425.5mm" y1="922.847mm" x2="623.25mm" y2="922.847mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="931.847mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="425.5mm" y1="935.704mm" x2="623.25mm" y2="935.704mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="944.704mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="425.5mm" y1="948.561mm" x2="623.25mm" y2="948.561mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="957.561mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="425.5mm" y1="961.418mm" x2="623.25mm" y2="961.418mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="970.418mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<rect x="425.5mm" y="974.275mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="974.275mm" x2="623.25mm" y2="974.275mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="983.275mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<rect x="425.5mm" y="987.132mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="987.132mm" x2="623.25mm" y2="987.132mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="996.132mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="425.5mm" y1="999.989mm" x2="623.25mm" y2="999.989mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1008.989mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="425.5mm" y1="1012.846mm" x2="623.25mm" y2="1012.846mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1021.846mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="425.5mm" y1="1025.703mm" x2="623.25mm" y2="1025.703mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1034.703mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="425.5mm" y1="1038.56mm" x2="623.25mm" y2="1038.56mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1047.56mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="425.5mm" y1="1051.417mm" x2="623.25mm" y2="1051.417mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1060.417mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<rect x="425.5mm" y="1064.274mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="1064.274mm" x2="623.25mm" y2="1064.274mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1073.274mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<rect x="425.5mm" y="1077.131mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="1077.131mm" x2="623.25mm" y2="1077.131mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1086.131mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="425.5mm" y1="1089.988mm" x2="623.25mm" y2="1089.988mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1098.988mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="425.5mm" y1="1102.845mm" x2="623.25mm" y2="1102.845mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1111.845mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="425.5mm" y1="1115.702mm" x2="623.25mm" y2="1115.702mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1124.702mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<line x1="425.5mm" y1="1128.559mm" x2="623.25mm" y2="1128.559mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1137.559mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="end" y="1137.559mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Haustmánuður</text>
-<line x1="425.5mm" y1="1141.416mm" x2="623.25mm" y2="1141.416mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1150.416mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<rect x="425.5mm" y="1154.273mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="1154.273mm" x2="623.25mm" y2="1154.273mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1163.273mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<rect x="425.5mm" y="1167.13mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="425.5mm" y1="1167.13mm" x2="623.25mm" y2="1167.13mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1176.13mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="425.5mm" y1="1179.987mm" x2="623.25mm" y2="1179.987mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<line x1="633.25mm" y1="10mm" x2="831mm" y2="10mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="19mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="633.25mm" y1="22.857mm" x2="831mm" y2="22.857mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="31.857mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="633.25mm" y1="35.714mm" x2="831mm" y2="35.714mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="44.714mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="633.25mm" y1="48.571mm" x2="831mm" y2="48.571mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="57.571mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">OKT</text>
-<line x1="633.25mm" y1="61.428mm" x2="831mm" y2="61.428mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="70.428mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<rect x="633.25mm" y="74.285mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="74.285mm" x2="831mm" y2="74.285mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="83.285mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<rect x="633.25mm" y="87.142mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="87.142mm" x2="831mm" y2="87.142mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="96.142mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="633.25mm" y1="99.999mm" x2="831mm" y2="99.999mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="108.999mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="633.25mm" y1="112.856mm" x2="831mm" y2="112.856mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="121.856mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="633.25mm" y1="125.713mm" x2="831mm" y2="125.713mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="134.713mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="633.25mm" y1="138.57mm" x2="831mm" y2="138.57mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="147.57mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="633.25mm" y1="151.427mm" x2="831mm" y2="151.427mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="160.427mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<rect x="633.25mm" y="164.284mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="164.284mm" x2="831mm" y2="164.284mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="173.284mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<rect x="633.25mm" y="177.141mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="177.141mm" x2="831mm" y2="177.141mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="186.141mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="633.25mm" y1="189.998mm" x2="831mm" y2="189.998mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="198.998mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="633.25mm" y1="202.855mm" x2="831mm" y2="202.855mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="211.855mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="633.25mm" y1="215.712mm" x2="831mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="224.712mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="633.25mm" y1="228.569mm" x2="831mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="237.569mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="633.25mm" y1="241.426mm" x2="831mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="250.426mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<rect x="633.25mm" y="254.283mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="254.283mm" x2="831mm" y2="254.283mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="263.283mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<rect x="633.25mm" y="267.14mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="267.14mm" x2="831mm" y2="267.14mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="276.14mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="633.25mm" y1="279.997mm" x2="831mm" y2="279.997mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="288.997mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="633.25mm" y1="292.854mm" x2="831mm" y2="292.854mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="301.854mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="633.25mm" y1="305.711mm" x2="831mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="314.711mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="633.25mm" y1="318.568mm" x2="831mm" y2="318.568mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="327.568mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="633.25mm" y1="331.425mm" x2="831mm" y2="331.425mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="340.425mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<rect x="633.25mm" y="344.282mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="344.282mm" x2="831mm" y2="344.282mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="353.282mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="start" y="353.282mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Kjötsúpudagurinn</text>
-<text text-anchor="end" y="353.282mm" x="830mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Gormánuður</text>
-<rect x="633.25mm" y="357.139mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="357.139mm" x2="831mm" y2="357.139mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="366.139mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="633.25mm" y1="369.996mm" x2="831mm" y2="369.996mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="378.996mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="633.25mm" y1="382.853mm" x2="831mm" y2="382.853mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="391.853mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="633.25mm" y1="395.71mm" x2="831mm" y2="395.71mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="404.71mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<line x1="633.25mm" y1="408.567mm" x2="831mm" y2="408.567mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="417.567mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="633.25mm" y1="421.424mm" x2="831mm" y2="421.424mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="430.424mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<rect x="633.25mm" y="434.281mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="434.281mm" x2="831mm" y2="434.281mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="443.281mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">31</text>
-<rect x="633.25mm" y="447.138mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="447.138mm" x2="831mm" y2="447.138mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="456.138mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">NÓV</text>
-<line x1="633.25mm" y1="459.995mm" x2="831mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="468.995mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="633.25mm" y1="472.852mm" x2="831mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="481.852mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="633.25mm" y1="485.709mm" x2="831mm" y2="485.709mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="494.709mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<line x1="633.25mm" y1="498.566mm" x2="831mm" y2="498.566mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="507.566mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<line x1="633.25mm" y1="511.423mm" x2="831mm" y2="511.423mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="520.423mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<rect x="633.25mm" y="524.28mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="524.28mm" x2="831mm" y2="524.28mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="533.28mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<rect x="633.25mm" y="537.137mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="537.137mm" x2="831mm" y2="537.137mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="546.137mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="633.25mm" y1="549.994mm" x2="831mm" y2="549.994mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="558.994mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="633.25mm" y1="562.851mm" x2="831mm" y2="562.851mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="571.851mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="633.25mm" y1="575.708mm" x2="831mm" y2="575.708mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="584.708mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<line x1="633.25mm" y1="588.565mm" x2="831mm" y2="588.565mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="597.565mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<line x1="633.25mm" y1="601.422mm" x2="831mm" y2="601.422mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="610.422mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<rect x="633.25mm" y="614.279mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="614.279mm" x2="831mm" y2="614.279mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="623.279mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<rect x="633.25mm" y="627.136mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="627.136mm" x2="831mm" y2="627.136mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="636.136mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="633.25mm" y1="639.993mm" x2="831mm" y2="639.993mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="648.993mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="633.25mm" y1="652.85mm" x2="831mm" y2="652.85mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="661.85mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="633.25mm" y1="665.707mm" x2="831mm" y2="665.707mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="674.707mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<line x1="633.25mm" y1="678.564mm" x2="831mm" y2="678.564mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="687.564mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<line x1="633.25mm" y1="691.421mm" x2="831mm" y2="691.421mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="700.421mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<rect x="633.25mm" y="704.278mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="704.278mm" x2="831mm" y2="704.278mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="713.278mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<rect x="633.25mm" y="717.135mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="717.135mm" x2="831mm" y2="717.135mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="726.135mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="633.25mm" y1="729.992mm" x2="831mm" y2="729.992mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="738.992mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<text text-anchor="end" y="738.992mm" x="830mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Ýlir</text>
-<line x1="633.25mm" y1="742.849mm" x2="831mm" y2="742.849mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="751.849mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<line x1="633.25mm" y1="755.706mm" x2="831mm" y2="755.706mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="764.706mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<line x1="633.25mm" y1="768.563mm" x2="831mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="777.563mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<line x1="633.25mm" y1="781.42mm" x2="831mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="790.42mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<rect x="633.25mm" y="794.277mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="794.277mm" x2="831mm" y2="794.277mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="803.277mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
-<rect x="633.25mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="807.134mm" x2="831mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="816.134mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<line x1="633.25mm" y1="819.991mm" x2="831mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="828.991mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
-<line x1="633.25mm" y1="832.848mm" x2="831mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
-<text text-anchor="start" y="841.848mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">DES</text>
-<line x1="633.25mm" y1="845.705mm" x2="831mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="854.705mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
-<line x1="633.25mm" y1="858.562mm" x2="831mm" y2="858.562mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="867.562mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<line x1="633.25mm" y1="871.419mm" x2="831mm" y2="871.419mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="880.419mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<rect x="633.25mm" y="884.276mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="884.276mm" x2="831mm" y2="884.276mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="893.276mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<rect x="633.25mm" y="897.133mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="897.133mm" x2="831mm" y2="897.133mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="906.133mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
-<line x1="633.25mm" y1="909.99mm" x2="831mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="918.99mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
-<line x1="633.25mm" y1="922.847mm" x2="831mm" y2="922.847mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="931.847mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<line x1="633.25mm" y1="935.704mm" x2="831mm" y2="935.704mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="944.704mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<line x1="633.25mm" y1="948.561mm" x2="831mm" y2="948.561mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="957.561mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
-<line x1="633.25mm" y1="961.418mm" x2="831mm" y2="961.418mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="970.418mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
-<rect x="633.25mm" y="974.275mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="974.275mm" x2="831mm" y2="974.275mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="983.275mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
-<rect x="633.25mm" y="987.132mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="987.132mm" x2="831mm" y2="987.132mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="996.132mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<line x1="633.25mm" y1="999.989mm" x2="831mm" y2="999.989mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1008.989mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
-<line x1="633.25mm" y1="1012.846mm" x2="831mm" y2="1012.846mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1021.846mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
-<line x1="633.25mm" y1="1025.703mm" x2="831mm" y2="1025.703mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1034.703mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
-<line x1="633.25mm" y1="1038.56mm" x2="831mm" y2="1038.56mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1047.56mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<line x1="633.25mm" y1="1051.417mm" x2="831mm" y2="1051.417mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1060.417mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<rect x="633.25mm" y="1064.274mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="1064.274mm" x2="831mm" y2="1064.274mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1073.274mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
-<rect x="633.25mm" y="1077.131mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="1077.131mm" x2="831mm" y2="1077.131mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1086.131mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<line x1="633.25mm" y1="1089.988mm" x2="831mm" y2="1089.988mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1098.988mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<line x1="633.25mm" y1="1102.845mm" x2="831mm" y2="1102.845mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1111.845mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
-<line x1="633.25mm" y1="1115.702mm" x2="831mm" y2="1115.702mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1124.702mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
-<text text-anchor="end" y="1124.702mm" x="830mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Mörsugur</text>
-<line x1="633.25mm" y1="1128.559mm" x2="831mm" y2="1128.559mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1137.559mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="start" y="1137.559mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Aðfangadagur</text>
-<line x1="633.25mm" y1="1141.416mm" x2="831mm" y2="1141.416mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1150.416mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
-<text text-anchor="start" y="1150.416mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Jóladagur</text>
-<rect x="633.25mm" y="1154.273mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="1154.273mm" x2="831mm" y2="1154.273mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1163.273mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
-<text text-anchor="start" y="1163.273mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Annar í jólum</text>
-<rect x="633.25mm" y="1167.13mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
-<line x1="633.25mm" y1="1167.13mm" x2="831mm" y2="1167.13mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
-<text text-anchor="start" y="1176.13mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
-<line x1="633.25mm" y1="1179.987mm" x2="831mm" y2="1179.987mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2383.938px" height="3370.394px" viewBox="0 0 2383.938 3370.394" enable-background="new 0 0 2383.938 3370.394"
+	 xml:space="preserve">
+<rect x="0" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" width="2383.938" height="3370.394"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="28.347" x2="588.898" y2="28.347"/>
+<text transform="matrix(1 0 0 1 31.1814 53.8579)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="64.792" x2="588.898" y2="64.792"/>
+<text transform="matrix(1 0 0 1 31.1814 90.3032)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<text transform="matrix(1 0 0 1 116.2209 90.3032)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Gamlársdagur</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="28.346" y1="101.236" x2="588.898" y2="101.236"/>
+<text transform="matrix(1 0 0 1 31.1814 126.7476)" font-family="'HelveticaNeue-Bold'" font-size="21">JAN</text>
+<text transform="matrix(1 0 0 1 116.2209 126.7476)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Nýársdagur</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="137.682" x2="588.898" y2="137.682"/>
+<text transform="matrix(1 0 0 1 31.1814 163.1929)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="174.126" x2="588.898" y2="174.126"/>
+<text transform="matrix(1 0 0 1 31.1814 199.6382)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<rect x="28.346" y="210.572" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="210.572" x2="588.898" y2="210.572"/>
+<text transform="matrix(1 0 0 1 31.1814 236.0835)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<rect x="28.346" y="247.017" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="247.017" x2="588.898" y2="247.017"/>
+<text transform="matrix(1 0 0 1 31.1814 272.5278)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="283.462" x2="588.898" y2="283.462"/>
+<text transform="matrix(1 0 0 1 31.1814 308.9731)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<text transform="matrix(1 0 0 1 116.2209 308.9731)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Þrettándinn</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="319.907" x2="588.898" y2="319.907"/>
+<text transform="matrix(1 0 0 1 31.1814 345.4185)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="356.352" x2="588.898" y2="356.352"/>
+<text transform="matrix(1 0 0 1 31.1814 381.8628)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="392.797" x2="588.898" y2="392.797"/>
+<text transform="matrix(1 0 0 1 31.1814 418.3081)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="429.242" x2="588.898" y2="429.242"/>
+<text transform="matrix(1 0 0 1 31.1814 454.7534)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<rect x="28.346" y="465.687" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="465.687" x2="588.898" y2="465.687"/>
+<text transform="matrix(1 0 0 1 31.1814 491.1978)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<rect x="28.346" y="502.132" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="502.132" x2="588.898" y2="502.132"/>
+<text transform="matrix(1 0 0 1 31.1814 527.6431)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="538.577" x2="588.898" y2="538.577"/>
+<text transform="matrix(1 0 0 1 31.1814 564.0884)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="575.022" x2="588.898" y2="575.022"/>
+<text transform="matrix(1 0 0 1 31.1814 600.5337)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="611.467" x2="588.898" y2="611.467"/>
+<text transform="matrix(1 0 0 1 31.1814 636.978)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="647.912" x2="588.898" y2="647.912"/>
+<text transform="matrix(1 0 0 1 31.1814 673.4233)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="684.357" x2="588.898" y2="684.357"/>
+<text transform="matrix(1 0 0 1 31.1814 709.8687)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<rect x="28.346" y="720.803" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="720.803" x2="588.898" y2="720.803"/>
+<text transform="matrix(1 0 0 1 31.1814 746.314)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<rect x="28.346" y="757.247" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="757.247" x2="588.898" y2="757.247"/>
+<text transform="matrix(1 0 0 1 31.1814 782.7583)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="793.692" x2="588.898" y2="793.692"/>
+<text transform="matrix(1 0 0 1 31.1814 819.2036)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="830.138" x2="588.898" y2="830.138"/>
+<text transform="matrix(1 0 0 1 31.1814 855.6489)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="866.582" x2="588.898" y2="866.582"/>
+<text transform="matrix(1 0 0 1 31.1814 892.0933)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="903.027" x2="588.898" y2="903.027"/>
+<text transform="matrix(1 0 0 1 31.1814 928.5386)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="939.473" x2="588.898" y2="939.473"/>
+<text transform="matrix(1 0 0 1 31.1814 964.9839)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 116.2209 964.9839)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Bóndadagur</text>
+<text transform="matrix(1 0 0 1 537.47 964.9839)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Þorri</text>
+<rect x="28.346" y="975.918" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="975.918" x2="588.898" y2="975.918"/>
+<text transform="matrix(1 0 0 1 31.1814 1001.4292)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<rect x="28.346" y="1012.362" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1012.362" x2="588.898" y2="1012.362"/>
+<text transform="matrix(1 0 0 1 31.1814 1037.8735)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1048.808" x2="588.898" y2="1048.808"/>
+<text transform="matrix(1 0 0 1 31.1814 1074.3188)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1085.253" x2="588.898" y2="1085.253"/>
+<text transform="matrix(1 0 0 1 31.1814 1110.7642)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1121.697" x2="588.898" y2="1121.697"/>
+<text transform="matrix(1 0 0 1 31.1814 1147.2085)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1158.143" x2="588.898" y2="1158.143"/>
+<text transform="matrix(1 0 0 1 31.1814 1183.6538)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1194.588" x2="588.898" y2="1194.588"/>
+<text transform="matrix(1 0 0 1 31.1814 1220.0991)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<rect x="28.346" y="1231.033" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" stroke-width="4" x1="28.346" y1="1231.033" x2="588.898" y2="1231.033"/>
+<text transform="matrix(1 0 0 1 31.1814 1256.5444)" font-family="'HelveticaNeue-Bold'" font-size="21">FEB</text>
+<rect x="28.346" y="1267.478" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1267.478" x2="588.898" y2="1267.478"/>
+<text transform="matrix(1 0 0 1 31.1814 1292.9893)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1303.923" x2="588.898" y2="1303.923"/>
+<text transform="matrix(1 0 0 1 31.1814 1329.4341)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1340.368" x2="588.898" y2="1340.368"/>
+<text transform="matrix(1 0 0 1 31.1814 1365.8794)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1376.812" x2="588.898" y2="1376.812"/>
+<text transform="matrix(1 0 0 1 31.1814 1402.3242)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1413.258" x2="588.898" y2="1413.258"/>
+<text transform="matrix(1 0 0 1 31.1814 1438.769)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1449.703" x2="588.898" y2="1449.703"/>
+<text transform="matrix(1 0 0 1 31.1814 1475.2144)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<rect x="28.346" y="1486.148" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1486.148" x2="588.898" y2="1486.148"/>
+<text transform="matrix(1 0 0 1 31.1814 1511.6597)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<rect x="28.346" y="1522.593" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1522.593" x2="588.898" y2="1522.593"/>
+<text transform="matrix(1 0 0 1 31.1814 1548.1045)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1559.038" x2="588.898" y2="1559.038"/>
+<text transform="matrix(1 0 0 1 31.1814 1584.5493)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1595.483" x2="588.898" y2="1595.483"/>
+<text transform="matrix(1 0 0 1 31.1814 1620.9946)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1631.928" x2="588.898" y2="1631.928"/>
+<text transform="matrix(1 0 0 1 31.1814 1657.4395)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1668.373" x2="588.898" y2="1668.373"/>
+<text transform="matrix(1 0 0 1 31.1814 1693.8843)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1704.818" x2="588.898" y2="1704.818"/>
+<text transform="matrix(1 0 0 1 31.1814 1730.3296)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<rect x="28.346" y="1741.263" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1741.263" x2="588.898" y2="1741.263"/>
+<text transform="matrix(1 0 0 1 31.1814 1766.7749)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<rect x="28.346" y="1777.708" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1777.708" x2="588.898" y2="1777.708"/>
+<text transform="matrix(1 0 0 1 31.1814 1803.2202)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1814.154" x2="588.898" y2="1814.154"/>
+<text transform="matrix(1 0 0 1 31.1814 1839.6646)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1850.599" x2="588.898" y2="1850.599"/>
+<text transform="matrix(1 0 0 1 31.1814 1876.1099)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1887.042" x2="588.898" y2="1887.042"/>
+<text transform="matrix(1 0 0 1 31.1814 1912.5542)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1923.488" x2="588.898" y2="1923.488"/>
+<text transform="matrix(1 0 0 1 31.1814 1948.9995)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="1959.933" x2="588.898" y2="1959.933"/>
+<text transform="matrix(1 0 0 1 31.1814 1985.4448)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<rect x="28.346" y="1996.378" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="1996.378" x2="588.898" y2="1996.378"/>
+<text transform="matrix(1 0 0 1 31.1814 2021.8901)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<rect x="28.346" y="2032.824" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2032.824" x2="588.898" y2="2032.824"/>
+<text transform="matrix(1 0 0 1 31.1814 2058.3354)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<text transform="matrix(1 0 0 1 116.2209 2058.3354)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Konudagur</text>
+<text transform="matrix(1 0 0 1 545.24 2058.3354)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Góa</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2069.269" x2="588.898" y2="2069.269"/>
+<text transform="matrix(1 0 0 1 31.1814 2094.7798)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 116.2209 2094.7798)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Bolludagur</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2105.714" x2="588.898" y2="2105.714"/>
+<text transform="matrix(1 0 0 1 31.1814 2131.2251)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<text transform="matrix(1 0 0 1 116.2209 2131.2251)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Sprengidagur</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2142.158" x2="588.898" y2="2142.158"/>
+<text transform="matrix(1 0 0 1 31.1814 2167.6704)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<text transform="matrix(1 0 0 1 116.2209 2167.6704)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Öskudagur</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2178.603" x2="588.898" y2="2178.603"/>
+<text transform="matrix(1 0 0 1 31.1814 2204.1147)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2215.048" x2="588.898" y2="2215.048"/>
+<text transform="matrix(1 0 0 1 31.1814 2240.5601)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<rect x="28.346" y="2251.494" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2251.494" x2="588.898" y2="2251.494"/>
+<text transform="matrix(1 0 0 1 31.1814 2277.0054)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<rect x="28.346" y="2287.939" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" stroke-width="4" x1="28.346" y1="2287.939" x2="588.898" y2="2287.939"/>
+<text transform="matrix(1 0 0 1 31.1814 2313.4507)" font-family="'HelveticaNeue-Bold'" font-size="21">MAR</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2324.384" x2="588.898" y2="2324.384"/>
+<text transform="matrix(1 0 0 1 31.1814 2349.896)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2360.83" x2="588.898" y2="2360.83"/>
+<text transform="matrix(1 0 0 1 31.1814 2386.3403)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2397.275" x2="588.898" y2="2397.275"/>
+<text transform="matrix(1 0 0 1 31.1814 2422.7856)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2433.718" x2="588.898" y2="2433.718"/>
+<text transform="matrix(1 0 0 1 31.1814 2459.23)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2470.164" x2="588.898" y2="2470.164"/>
+<text transform="matrix(1 0 0 1 31.1814 2495.6753)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<rect x="28.346" y="2506.609" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2506.609" x2="588.898" y2="2506.609"/>
+<text transform="matrix(1 0 0 1 31.1814 2532.1206)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<rect x="28.346" y="2543.054" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2543.054" x2="588.898" y2="2543.054"/>
+<text transform="matrix(1 0 0 1 31.1814 2568.5659)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2579.5" x2="588.898" y2="2579.5"/>
+<text transform="matrix(1 0 0 1 31.1814 2605.0103)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2615.945" x2="588.898" y2="2615.945"/>
+<text transform="matrix(1 0 0 1 31.1814 2641.4556)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2652.388" x2="588.898" y2="2652.388"/>
+<text transform="matrix(1 0 0 1 31.1814 2677.9009)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2688.833" x2="588.898" y2="2688.833"/>
+<text transform="matrix(1 0 0 1 31.1814 2714.3452)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2725.279" x2="588.898" y2="2725.279"/>
+<text transform="matrix(1 0 0 1 31.1814 2750.7905)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<rect x="28.346" y="2761.724" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2761.724" x2="588.898" y2="2761.724"/>
+<text transform="matrix(1 0 0 1 31.1814 2787.2358)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<rect x="28.346" y="2798.169" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="2798.169" x2="588.898" y2="2798.169"/>
+<text transform="matrix(1 0 0 1 31.1814 2823.6812)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2834.615" x2="588.898" y2="2834.615"/>
+<text transform="matrix(1 0 0 1 31.1814 2860.1265)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2871.06" x2="588.898" y2="2871.06"/>
+<text transform="matrix(1 0 0 1 31.1814 2896.5708)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2907.505" x2="588.898" y2="2907.505"/>
+<text transform="matrix(1 0 0 1 31.1814 2933.0161)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2943.951" x2="588.898" y2="2943.951"/>
+<text transform="matrix(1 0 0 1 31.1814 2969.4614)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="2980.394" x2="588.898" y2="2980.394"/>
+<text transform="matrix(1 0 0 1 31.1814 3005.9058)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<rect x="28.346" y="3016.839" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="3016.839" x2="588.898" y2="3016.839"/>
+<text transform="matrix(1 0 0 1 31.1814 3042.3511)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<rect x="28.346" y="3053.285" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="3053.285" x2="588.898" y2="3053.285"/>
+<text transform="matrix(1 0 0 1 31.1814 3078.7964)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3089.73" x2="588.898" y2="3089.73"/>
+<text transform="matrix(1 0 0 1 31.1814 3115.2417)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3126.175" x2="588.898" y2="3126.175"/>
+<text transform="matrix(1 0 0 1 31.1814 3151.686)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 465.1472 3151.686)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Einmánuður</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3162.621" x2="588.898" y2="3162.621"/>
+<text transform="matrix(1 0 0 1 31.1814 3188.1313)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3199.064" x2="588.898" y2="3199.064"/>
+<text transform="matrix(1 0 0 1 31.1814 3224.5757)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3235.509" x2="588.898" y2="3235.509"/>
+<text transform="matrix(1 0 0 1 31.1814 3261.021)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<rect x="28.346" y="3271.955" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="3271.955" x2="588.898" y2="3271.955"/>
+<text transform="matrix(1 0 0 1 31.1814 3297.4663)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<rect x="28.346" y="3308.4" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="28.346" y1="3308.4" x2="588.898" y2="3308.4"/>
+<text transform="matrix(1 0 0 1 31.1814 3333.9116)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="28.346" y1="3344.845" x2="588.898" y2="3344.845"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="28.347" x2="1177.796" y2="28.347"/>
+<text transform="matrix(1 0 0 1 620.0789 53.8579)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="64.792" x2="1177.796" y2="64.792"/>
+<text transform="matrix(1 0 0 1 620.0789 90.3032)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="617.244" y1="101.236" x2="1177.796" y2="101.236"/>
+<text transform="matrix(1 0 0 1 620.0789 126.7476)" font-family="'HelveticaNeue-Bold'" font-size="21">APR</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="137.682" x2="1177.796" y2="137.682"/>
+<text transform="matrix(1 0 0 1 620.0789 163.1929)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="174.126" x2="1177.796" y2="174.126"/>
+<text transform="matrix(1 0 0 1 620.0789 199.6382)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<rect x="617.244" y="210.572" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="210.572" x2="1177.796" y2="210.572"/>
+<text transform="matrix(1 0 0 1 620.0789 236.0835)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<rect x="617.244" y="247.017" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="247.017" x2="1177.796" y2="247.017"/>
+<text transform="matrix(1 0 0 1 620.0789 272.5278)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<text transform="matrix(1 0 0 1 705.1184 272.5278)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Pálmasunnudagur</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="283.462" x2="1177.796" y2="283.462"/>
+<text transform="matrix(1 0 0 1 620.0789 308.9731)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="319.907" x2="1177.796" y2="319.907"/>
+<text transform="matrix(1 0 0 1 620.0789 345.4185)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="356.352" x2="1177.796" y2="356.352"/>
+<text transform="matrix(1 0 0 1 620.0789 381.8628)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="392.797" x2="1177.796" y2="392.797"/>
+<text transform="matrix(1 0 0 1 620.0789 418.3081)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<text transform="matrix(1 0 0 1 705.1184 418.3081)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Skírdagur</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="429.242" x2="1177.796" y2="429.242"/>
+<text transform="matrix(1 0 0 1 620.0789 454.7534)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<text transform="matrix(1 0 0 1 705.1184 454.7534)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Föstudagurinn langi</text>
+<rect x="617.244" y="465.687" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="465.687" x2="1177.796" y2="465.687"/>
+<text transform="matrix(1 0 0 1 620.0789 491.1978)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<rect x="617.244" y="502.132" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="502.132" x2="1177.796" y2="502.132"/>
+<text transform="matrix(1 0 0 1 620.0789 527.6431)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<text transform="matrix(1 0 0 1 705.1184 527.6431)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Páskadagur</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="538.577" x2="1177.796" y2="538.577"/>
+<text transform="matrix(1 0 0 1 620.0789 564.0884)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<text transform="matrix(1 0 0 1 705.1184 564.0884)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Annar í páskum</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="575.022" x2="1177.796" y2="575.022"/>
+<text transform="matrix(1 0 0 1 620.0789 600.5337)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="611.467" x2="1177.796" y2="611.467"/>
+<text transform="matrix(1 0 0 1 620.0789 636.978)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="647.912" x2="1177.796" y2="647.912"/>
+<text transform="matrix(1 0 0 1 620.0789 673.4233)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="684.357" x2="1177.796" y2="684.357"/>
+<text transform="matrix(1 0 0 1 620.0789 709.8687)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<rect x="617.244" y="720.803" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="720.803" x2="1177.796" y2="720.803"/>
+<text transform="matrix(1 0 0 1 620.0789 746.314)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<rect x="617.244" y="757.247" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="757.247" x2="1177.796" y2="757.247"/>
+<text transform="matrix(1 0 0 1 620.0789 782.7583)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="793.692" x2="1177.796" y2="793.692"/>
+<text transform="matrix(1 0 0 1 620.0789 819.2036)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="830.138" x2="1177.796" y2="830.138"/>
+<text transform="matrix(1 0 0 1 620.0789 855.6489)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="866.582" x2="1177.796" y2="866.582"/>
+<text transform="matrix(1 0 0 1 620.0789 892.0933)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="903.027" x2="1177.796" y2="903.027"/>
+<text transform="matrix(1 0 0 1 620.0789 928.5386)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<text transform="matrix(1 0 0 1 705.1184 928.5386)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Sumardagurinn fyrsti</text>
+<text transform="matrix(1 0 0 1 1114.2927 928.5386)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Harpa</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="939.473" x2="1177.796" y2="939.473"/>
+<text transform="matrix(1 0 0 1 620.0789 964.9839)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<rect x="617.244" y="975.918" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="975.918" x2="1177.796" y2="975.918"/>
+<text transform="matrix(1 0 0 1 620.0789 1001.4292)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<rect x="617.244" y="1012.362" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1012.362" x2="1177.796" y2="1012.362"/>
+<text transform="matrix(1 0 0 1 620.0789 1037.8735)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1048.808" x2="1177.796" y2="1048.808"/>
+<text transform="matrix(1 0 0 1 620.0789 1074.3188)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1085.253" x2="1177.796" y2="1085.253"/>
+<text transform="matrix(1 0 0 1 620.0789 1110.7642)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1121.697" x2="1177.796" y2="1121.697"/>
+<text transform="matrix(1 0 0 1 620.0789 1147.2085)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1158.143" x2="1177.796" y2="1158.143"/>
+<text transform="matrix(1 0 0 1 620.0789 1183.6538)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="617.244" y1="1194.588" x2="1177.796" y2="1194.588"/>
+<text transform="matrix(1 0 0 1 620.0789 1220.0991)" font-family="'HelveticaNeue-Bold'" font-size="21">MAÍ</text>
+<text transform="matrix(1 0 0 1 705.1184 1220.0991)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Verkalýðsdagurinn</text>
+<rect x="617.244" y="1231.033" fill="#D2D2D2" width="560.552" height="36.444"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1231.033" x2="1177.796" y2="1231.033"/>
+<text transform="matrix(1 0 0 1 620.0789 1256.5444)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<rect x="617.244" y="1267.478" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1267.478" x2="1177.796" y2="1267.478"/>
+<text transform="matrix(1 0 0 1 620.0789 1292.9893)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1303.923" x2="1177.796" y2="1303.923"/>
+<text transform="matrix(1 0 0 1 620.0789 1329.4341)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1340.368" x2="1177.796" y2="1340.368"/>
+<text transform="matrix(1 0 0 1 620.0789 1365.8794)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1376.812" x2="1177.796" y2="1376.812"/>
+<text transform="matrix(1 0 0 1 620.0789 1402.3242)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1413.258" x2="1177.796" y2="1413.258"/>
+<text transform="matrix(1 0 0 1 620.0789 1438.769)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1449.703" x2="1177.796" y2="1449.703"/>
+<text transform="matrix(1 0 0 1 620.0789 1475.2144)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<rect x="617.244" y="1486.148" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1486.148" x2="1177.796" y2="1486.148"/>
+<text transform="matrix(1 0 0 1 620.0789 1511.6597)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<rect x="617.244" y="1522.593" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1522.593" x2="1177.796" y2="1522.593"/>
+<text transform="matrix(1 0 0 1 620.0789 1548.1045)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<text transform="matrix(1 0 0 1 705.1184 1548.1045)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Mæðradagurinn</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1559.038" x2="1177.796" y2="1559.038"/>
+<text transform="matrix(1 0 0 1 620.0789 1584.5493)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1595.483" x2="1177.796" y2="1595.483"/>
+<text transform="matrix(1 0 0 1 620.0789 1620.9946)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1631.928" x2="1177.796" y2="1631.928"/>
+<text transform="matrix(1 0 0 1 620.0789 1657.4395)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1668.373" x2="1177.796" y2="1668.373"/>
+<text transform="matrix(1 0 0 1 620.0789 1693.8843)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1704.818" x2="1177.796" y2="1704.818"/>
+<text transform="matrix(1 0 0 1 620.0789 1730.3296)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<rect x="617.244" y="1741.263" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1741.263" x2="1177.796" y2="1741.263"/>
+<text transform="matrix(1 0 0 1 620.0789 1766.7749)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<rect x="617.244" y="1777.708" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1777.708" x2="1177.796" y2="1777.708"/>
+<text transform="matrix(1 0 0 1 620.0789 1803.2202)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1814.154" x2="1177.796" y2="1814.154"/>
+<text transform="matrix(1 0 0 1 620.0789 1839.6646)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1850.599" x2="1177.796" y2="1850.599"/>
+<text transform="matrix(1 0 0 1 620.0789 1876.1099)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1887.042" x2="1177.796" y2="1887.042"/>
+<text transform="matrix(1 0 0 1 620.0789 1912.5542)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1923.488" x2="1177.796" y2="1923.488"/>
+<text transform="matrix(1 0 0 1 620.0789 1948.9995)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<text transform="matrix(1 0 0 1 705.1184 1948.9995)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Uppstigningardagur</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="1959.933" x2="1177.796" y2="1959.933"/>
+<text transform="matrix(1 0 0 1 620.0789 1985.4448)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<rect x="617.244" y="1996.378" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="1996.378" x2="1177.796" y2="1996.378"/>
+<text transform="matrix(1 0 0 1 620.0789 2021.8901)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<text transform="matrix(1 0 0 1 1098.7532 2021.8901)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Skerpla</text>
+<rect x="617.244" y="2032.824" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2032.824" x2="1177.796" y2="2032.824"/>
+<text transform="matrix(1 0 0 1 620.0789 2058.3354)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2069.269" x2="1177.796" y2="2069.269"/>
+<text transform="matrix(1 0 0 1 620.0789 2094.7798)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2105.714" x2="1177.796" y2="2105.714"/>
+<text transform="matrix(1 0 0 1 620.0789 2131.2251)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2142.158" x2="1177.796" y2="2142.158"/>
+<text transform="matrix(1 0 0 1 620.0789 2167.6704)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2178.603" x2="1177.796" y2="2178.603"/>
+<text transform="matrix(1 0 0 1 620.0789 2204.1147)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2215.048" x2="1177.796" y2="2215.048"/>
+<text transform="matrix(1 0 0 1 620.0789 2240.5601)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<rect x="617.244" y="2251.494" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2251.494" x2="1177.796" y2="2251.494"/>
+<text transform="matrix(1 0 0 1 620.0789 2277.0054)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<rect x="617.244" y="2287.939" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2287.939" x2="1177.796" y2="2287.939"/>
+<text transform="matrix(1 0 0 1 620.0789 2313.4507)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<text transform="matrix(1 0 0 1 705.1184 2313.4507)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Hvítasunnudagur</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="617.244" y1="2324.384" x2="1177.796" y2="2324.384"/>
+<text transform="matrix(1 0 0 1 620.0789 2349.896)" font-family="'HelveticaNeue-Bold'" font-size="21">JÚN</text>
+<text transform="matrix(1 0 0 1 705.1184 2349.896)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Annar í hvítasunnu</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2360.83" x2="1177.796" y2="2360.83"/>
+<text transform="matrix(1 0 0 1 620.0789 2386.3403)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2397.275" x2="1177.796" y2="2397.275"/>
+<text transform="matrix(1 0 0 1 620.0789 2422.7856)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2433.718" x2="1177.796" y2="2433.718"/>
+<text transform="matrix(1 0 0 1 620.0789 2459.23)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2470.164" x2="1177.796" y2="2470.164"/>
+<text transform="matrix(1 0 0 1 620.0789 2495.6753)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<rect x="617.244" y="2506.609" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2506.609" x2="1177.796" y2="2506.609"/>
+<text transform="matrix(1 0 0 1 620.0789 2532.1206)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<rect x="617.244" y="2543.054" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2543.054" x2="1177.796" y2="2543.054"/>
+<text transform="matrix(1 0 0 1 620.0789 2568.5659)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<text transform="matrix(1 0 0 1 705.1184 2568.5659)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Sjomannadagurinn</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2579.5" x2="1177.796" y2="2579.5"/>
+<text transform="matrix(1 0 0 1 620.0789 2605.0103)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2615.945" x2="1177.796" y2="2615.945"/>
+<text transform="matrix(1 0 0 1 620.0789 2641.4556)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2652.388" x2="1177.796" y2="2652.388"/>
+<text transform="matrix(1 0 0 1 620.0789 2677.9009)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2688.833" x2="1177.796" y2="2688.833"/>
+<text transform="matrix(1 0 0 1 620.0789 2714.3452)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2725.279" x2="1177.796" y2="2725.279"/>
+<text transform="matrix(1 0 0 1 620.0789 2750.7905)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<rect x="617.244" y="2761.724" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2761.724" x2="1177.796" y2="2761.724"/>
+<text transform="matrix(1 0 0 1 620.0789 2787.2358)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<rect x="617.244" y="2798.169" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="2798.169" x2="1177.796" y2="2798.169"/>
+<text transform="matrix(1 0 0 1 620.0789 2823.6812)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2834.615" x2="1177.796" y2="2834.615"/>
+<text transform="matrix(1 0 0 1 620.0789 2860.1265)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2871.06" x2="1177.796" y2="2871.06"/>
+<text transform="matrix(1 0 0 1 620.0789 2896.5708)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2907.505" x2="1177.796" y2="2907.505"/>
+<text transform="matrix(1 0 0 1 620.0789 2933.0161)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<text transform="matrix(1 0 0 1 705.1184 2933.0161)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Þjóðhátíðardagurinn</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2943.951" x2="1177.796" y2="2943.951"/>
+<text transform="matrix(1 0 0 1 620.0789 2969.4614)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="2980.394" x2="1177.796" y2="2980.394"/>
+<text transform="matrix(1 0 0 1 620.0789 3005.9058)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<text transform="matrix(1 0 0 1 705.1184 3005.9058)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Kvenréttindadagurinn</text>
+<rect x="617.244" y="3016.839" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="3016.839" x2="1177.796" y2="3016.839"/>
+<text transform="matrix(1 0 0 1 620.0789 3042.3511)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<rect x="617.244" y="3053.285" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="3053.285" x2="1177.796" y2="3053.285"/>
+<text transform="matrix(1 0 0 1 620.0789 3078.7964)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3089.73" x2="1177.796" y2="3089.73"/>
+<text transform="matrix(1 0 0 1 620.0789 3115.2417)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<text transform="matrix(1 0 0 1 1053.6458 3115.2417)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Sólmánuður</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3126.175" x2="1177.796" y2="3126.175"/>
+<text transform="matrix(1 0 0 1 620.0789 3151.686)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3162.621" x2="1177.796" y2="3162.621"/>
+<text transform="matrix(1 0 0 1 620.0789 3188.1313)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 705.1184 3188.1313)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Jónsmessa</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3199.064" x2="1177.796" y2="3199.064"/>
+<text transform="matrix(1 0 0 1 620.0789 3224.5757)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3235.509" x2="1177.796" y2="3235.509"/>
+<text transform="matrix(1 0 0 1 620.0789 3261.021)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<rect x="617.244" y="3271.955" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="3271.955" x2="1177.796" y2="3271.955"/>
+<text transform="matrix(1 0 0 1 620.0789 3297.4663)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<rect x="617.244" y="3308.4" fill="#D2D2D2" width="560.552" height="36.445"/>
+<line fill="none" stroke="#000000" x1="617.244" y1="3308.4" x2="1177.796" y2="3308.4"/>
+<text transform="matrix(1 0 0 1 620.0789 3333.9116)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="617.244" y1="3344.845" x2="1177.796" y2="3344.845"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="28.347" x2="1766.693" y2="28.347"/>
+<text transform="matrix(1 0 0 1 1208.9763 53.8579)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="64.792" x2="1766.693" y2="64.792"/>
+<text transform="matrix(1 0 0 1 1208.9763 90.3032)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1206.142" y1="101.236" x2="1766.693" y2="101.236"/>
+<text transform="matrix(1 0 0 1 1208.9763 126.7476)" font-family="'HelveticaNeue-Bold'" font-size="21">JÚL</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="137.682" x2="1766.693" y2="137.682"/>
+<text transform="matrix(1 0 0 1 1208.9763 163.1929)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="174.126" x2="1766.693" y2="174.126"/>
+<text transform="matrix(1 0 0 1 1208.9763 199.6382)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<rect x="1206.142" y="210.572" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="210.572" x2="1766.693" y2="210.572"/>
+<text transform="matrix(1 0 0 1 1208.9763 236.0835)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<rect x="1206.142" y="247.017" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="247.017" x2="1766.693" y2="247.017"/>
+<text transform="matrix(1 0 0 1 1208.9763 272.5278)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="283.462" x2="1766.693" y2="283.462"/>
+<text transform="matrix(1 0 0 1 1208.9763 308.9731)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="319.907" x2="1766.693" y2="319.907"/>
+<text transform="matrix(1 0 0 1 1208.9763 345.4185)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="356.352" x2="1766.693" y2="356.352"/>
+<text transform="matrix(1 0 0 1 1208.9763 381.8628)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="392.797" x2="1766.693" y2="392.797"/>
+<text transform="matrix(1 0 0 1 1208.9763 418.3081)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="429.242" x2="1766.693" y2="429.242"/>
+<text transform="matrix(1 0 0 1 1208.9763 454.7534)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<rect x="1206.142" y="465.687" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="465.687" x2="1766.693" y2="465.687"/>
+<text transform="matrix(1 0 0 1 1208.9763 491.1978)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<rect x="1206.142" y="502.132" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="502.132" x2="1766.693" y2="502.132"/>
+<text transform="matrix(1 0 0 1 1208.9763 527.6431)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="538.577" x2="1766.693" y2="538.577"/>
+<text transform="matrix(1 0 0 1 1208.9763 564.0884)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="575.022" x2="1766.693" y2="575.022"/>
+<text transform="matrix(1 0 0 1 1208.9763 600.5337)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="611.467" x2="1766.693" y2="611.467"/>
+<text transform="matrix(1 0 0 1 1208.9763 636.978)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="647.912" x2="1766.693" y2="647.912"/>
+<text transform="matrix(1 0 0 1 1208.9763 673.4233)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="684.357" x2="1766.693" y2="684.357"/>
+<text transform="matrix(1 0 0 1 1208.9763 709.8687)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<rect x="1206.142" y="720.803" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="720.803" x2="1766.693" y2="720.803"/>
+<text transform="matrix(1 0 0 1 1208.9763 746.314)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<rect x="1206.142" y="757.247" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="757.247" x2="1766.693" y2="757.247"/>
+<text transform="matrix(1 0 0 1 1208.9763 782.7583)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="793.692" x2="1766.693" y2="793.692"/>
+<text transform="matrix(1 0 0 1 1208.9763 819.2036)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="830.138" x2="1766.693" y2="830.138"/>
+<text transform="matrix(1 0 0 1 1208.9763 855.6489)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="866.582" x2="1766.693" y2="866.582"/>
+<text transform="matrix(1 0 0 1 1208.9763 892.0933)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<text transform="matrix(1 0 0 1 1656.5505 892.0933)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Sumarauki</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="903.027" x2="1766.693" y2="903.027"/>
+<text transform="matrix(1 0 0 1 1208.9763 928.5386)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="939.473" x2="1766.693" y2="939.473"/>
+<text transform="matrix(1 0 0 1 1208.9763 964.9839)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<rect x="1206.142" y="975.918" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="975.918" x2="1766.693" y2="975.918"/>
+<text transform="matrix(1 0 0 1 1208.9763 1001.4292)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<rect x="1206.142" y="1012.362" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1012.362" x2="1766.693" y2="1012.362"/>
+<text transform="matrix(1 0 0 1 1208.9763 1037.8735)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<text transform="matrix(1 0 0 1 1674.7986 1037.8735)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Heyannir</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1048.808" x2="1766.693" y2="1048.808"/>
+<text transform="matrix(1 0 0 1 1208.9763 1074.3188)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1085.253" x2="1766.693" y2="1085.253"/>
+<text transform="matrix(1 0 0 1 1208.9763 1110.7642)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1121.697" x2="1766.693" y2="1121.697"/>
+<text transform="matrix(1 0 0 1 1208.9763 1147.2085)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1158.143" x2="1766.693" y2="1158.143"/>
+<text transform="matrix(1 0 0 1 1208.9763 1183.6538)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1194.588" x2="1766.693" y2="1194.588"/>
+<text transform="matrix(1 0 0 1 1208.9763 1220.0991)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<rect x="1206.142" y="1231.033" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1206.142" y1="1231.033" x2="1766.693" y2="1231.033"/>
+<text transform="matrix(1 0 0 1 1208.9763 1256.5444)" font-family="'HelveticaNeue-Bold'" font-size="21">ÁGÚ</text>
+<rect x="1206.142" y="1267.478" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1267.478" x2="1766.693" y2="1267.478"/>
+<text transform="matrix(1 0 0 1 1208.9763 1292.9893)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1303.923" x2="1766.693" y2="1303.923"/>
+<text transform="matrix(1 0 0 1 1208.9763 1329.4341)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<text transform="matrix(1 0 0 1 1294.0154 1329.4341)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Verslunamanna</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1340.368" x2="1766.693" y2="1340.368"/>
+<text transform="matrix(1 0 0 1 1208.9763 1365.8794)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1376.812" x2="1766.693" y2="1376.812"/>
+<text transform="matrix(1 0 0 1 1208.9763 1402.3242)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1413.258" x2="1766.693" y2="1413.258"/>
+<text transform="matrix(1 0 0 1 1208.9763 1438.769)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1449.703" x2="1766.693" y2="1449.703"/>
+<text transform="matrix(1 0 0 1 1208.9763 1475.2144)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<rect x="1206.142" y="1486.148" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1486.148" x2="1766.693" y2="1486.148"/>
+<text transform="matrix(1 0 0 1 1208.9763 1511.6597)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<rect x="1206.142" y="1522.593" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1522.593" x2="1766.693" y2="1522.593"/>
+<text transform="matrix(1 0 0 1 1208.9763 1548.1045)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1559.038" x2="1766.693" y2="1559.038"/>
+<text transform="matrix(1 0 0 1 1208.9763 1584.5493)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1595.483" x2="1766.693" y2="1595.483"/>
+<text transform="matrix(1 0 0 1 1208.9763 1620.9946)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1631.928" x2="1766.693" y2="1631.928"/>
+<text transform="matrix(1 0 0 1 1208.9763 1657.4395)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1668.373" x2="1766.693" y2="1668.373"/>
+<text transform="matrix(1 0 0 1 1208.9763 1693.8843)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1704.818" x2="1766.693" y2="1704.818"/>
+<text transform="matrix(1 0 0 1 1208.9763 1730.3296)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<rect x="1206.142" y="1741.263" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1741.263" x2="1766.693" y2="1741.263"/>
+<text transform="matrix(1 0 0 1 1208.9763 1766.7749)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<rect x="1206.142" y="1777.708" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1777.708" x2="1766.693" y2="1777.708"/>
+<text transform="matrix(1 0 0 1 1208.9763 1803.2202)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1814.154" x2="1766.693" y2="1814.154"/>
+<text transform="matrix(1 0 0 1 1208.9763 1839.6646)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1850.599" x2="1766.693" y2="1850.599"/>
+<text transform="matrix(1 0 0 1 1208.9763 1876.1099)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1887.042" x2="1766.693" y2="1887.042"/>
+<text transform="matrix(1 0 0 1 1208.9763 1912.5542)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1923.488" x2="1766.693" y2="1923.488"/>
+<text transform="matrix(1 0 0 1 1208.9763 1948.9995)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1959.933" x2="1766.693" y2="1959.933"/>
+<text transform="matrix(1 0 0 1 1208.9763 1985.4448)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<rect x="1206.142" y="1996.378" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="1996.378" x2="1766.693" y2="1996.378"/>
+<text transform="matrix(1 0 0 1 1208.9763 2021.8901)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<rect x="1206.142" y="2032.824" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2032.824" x2="1766.693" y2="2032.824"/>
+<text transform="matrix(1 0 0 1 1208.9763 2058.3354)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2069.269" x2="1766.693" y2="2069.269"/>
+<text transform="matrix(1 0 0 1 1208.9763 2094.7798)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2105.714" x2="1766.693" y2="2105.714"/>
+<text transform="matrix(1 0 0 1 1208.9763 2131.2251)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<text transform="matrix(1 0 0 1 1645.2527 2131.2251)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Tvímánuður</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2142.158" x2="1766.693" y2="2142.158"/>
+<text transform="matrix(1 0 0 1 1208.9763 2167.6704)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2178.603" x2="1766.693" y2="2178.603"/>
+<text transform="matrix(1 0 0 1 1208.9763 2204.1147)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2215.048" x2="1766.693" y2="2215.048"/>
+<text transform="matrix(1 0 0 1 1208.9763 2240.5601)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<rect x="1206.142" y="2251.494" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2251.494" x2="1766.693" y2="2251.494"/>
+<text transform="matrix(1 0 0 1 1208.9763 2277.0054)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<rect x="1206.142" y="2287.939" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2287.939" x2="1766.693" y2="2287.939"/>
+<text transform="matrix(1 0 0 1 1208.9763 2313.4507)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2324.384" x2="1766.693" y2="2324.384"/>
+<text transform="matrix(1 0 0 1 1208.9763 2349.896)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1206.142" y1="2360.83" x2="1766.693" y2="2360.83"/>
+<text transform="matrix(1 0 0 1 1208.9763 2386.3403)" font-family="'HelveticaNeue-Bold'" font-size="21">SEP</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2397.275" x2="1766.693" y2="2397.275"/>
+<text transform="matrix(1 0 0 1 1208.9763 2422.7856)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2433.718" x2="1766.693" y2="2433.718"/>
+<text transform="matrix(1 0 0 1 1208.9763 2459.23)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2470.164" x2="1766.693" y2="2470.164"/>
+<text transform="matrix(1 0 0 1 1208.9763 2495.6753)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<rect x="1206.142" y="2506.609" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2506.609" x2="1766.693" y2="2506.609"/>
+<text transform="matrix(1 0 0 1 1208.9763 2532.1206)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<rect x="1206.142" y="2543.054" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2543.054" x2="1766.693" y2="2543.054"/>
+<text transform="matrix(1 0 0 1 1208.9763 2568.5659)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2579.5" x2="1766.693" y2="2579.5"/>
+<text transform="matrix(1 0 0 1 1208.9763 2605.0103)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2615.945" x2="1766.693" y2="2615.945"/>
+<text transform="matrix(1 0 0 1 1208.9763 2641.4556)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2652.388" x2="1766.693" y2="2652.388"/>
+<text transform="matrix(1 0 0 1 1208.9763 2677.9009)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2688.833" x2="1766.693" y2="2688.833"/>
+<text transform="matrix(1 0 0 1 1208.9763 2714.3452)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2725.279" x2="1766.693" y2="2725.279"/>
+<text transform="matrix(1 0 0 1 1208.9763 2750.7905)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<rect x="1206.142" y="2761.724" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2761.724" x2="1766.693" y2="2761.724"/>
+<text transform="matrix(1 0 0 1 1208.9763 2787.2358)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<rect x="1206.142" y="2798.169" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2798.169" x2="1766.693" y2="2798.169"/>
+<text transform="matrix(1 0 0 1 1208.9763 2823.6812)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2834.615" x2="1766.693" y2="2834.615"/>
+<text transform="matrix(1 0 0 1 1208.9763 2860.1265)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2871.06" x2="1766.693" y2="2871.06"/>
+<text transform="matrix(1 0 0 1 1208.9763 2896.5708)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2907.505" x2="1766.693" y2="2907.505"/>
+<text transform="matrix(1 0 0 1 1208.9763 2933.0161)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2943.951" x2="1766.693" y2="2943.951"/>
+<text transform="matrix(1 0 0 1 1208.9763 2969.4614)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="2980.394" x2="1766.693" y2="2980.394"/>
+<text transform="matrix(1 0 0 1 1208.9763 3005.9058)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<rect x="1206.142" y="3016.839" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3016.839" x2="1766.693" y2="3016.839"/>
+<text transform="matrix(1 0 0 1 1208.9763 3042.3511)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<rect x="1206.142" y="3053.285" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3053.285" x2="1766.693" y2="3053.285"/>
+<text transform="matrix(1 0 0 1 1208.9763 3078.7964)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3089.73" x2="1766.693" y2="3089.73"/>
+<text transform="matrix(1 0 0 1 1208.9763 3115.2417)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3126.175" x2="1766.693" y2="3126.175"/>
+<text transform="matrix(1 0 0 1 1208.9763 3151.686)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3162.621" x2="1766.693" y2="3162.621"/>
+<text transform="matrix(1 0 0 1 1208.9763 3188.1313)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3199.064" x2="1766.693" y2="3199.064"/>
+<text transform="matrix(1 0 0 1 1208.9763 3224.5757)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 1615.6853 3224.5757)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Haustmánuður</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3235.509" x2="1766.693" y2="3235.509"/>
+<text transform="matrix(1 0 0 1 1208.9763 3261.021)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<rect x="1206.142" y="3271.955" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3271.955" x2="1766.693" y2="3271.955"/>
+<text transform="matrix(1 0 0 1 1208.9763 3297.4663)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<rect x="1206.142" y="3308.4" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3308.4" x2="1766.693" y2="3308.4"/>
+<text transform="matrix(1 0 0 1 1208.9763 3333.9116)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="1206.142" y1="3344.845" x2="1766.693" y2="3344.845"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="28.347" x2="2355.591" y2="28.347"/>
+<text transform="matrix(1 0 0 1 1797.8748 53.8579)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="64.792" x2="2355.591" y2="64.792"/>
+<text transform="matrix(1 0 0 1 1797.8748 90.3032)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="101.236" x2="2355.591" y2="101.236"/>
+<text transform="matrix(1 0 0 1 1797.8748 126.7476)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1795.04" y1="137.682" x2="2355.591" y2="137.682"/>
+<text transform="matrix(1 0 0 1 1797.8748 163.1929)" font-family="'HelveticaNeue-Bold'" font-size="21">OKT</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="174.126" x2="2355.591" y2="174.126"/>
+<text transform="matrix(1 0 0 1 1797.8748 199.6382)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<rect x="1795.04" y="210.572" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="210.572" x2="2355.591" y2="210.572"/>
+<text transform="matrix(1 0 0 1 1797.8748 236.0835)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<rect x="1795.04" y="247.017" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="247.017" x2="2355.591" y2="247.017"/>
+<text transform="matrix(1 0 0 1 1797.8748 272.5278)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="283.462" x2="2355.591" y2="283.462"/>
+<text transform="matrix(1 0 0 1 1797.8748 308.9731)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="319.907" x2="2355.591" y2="319.907"/>
+<text transform="matrix(1 0 0 1 1797.8748 345.4185)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="356.352" x2="2355.591" y2="356.352"/>
+<text transform="matrix(1 0 0 1 1797.8748 381.8628)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="392.797" x2="2355.591" y2="392.797"/>
+<text transform="matrix(1 0 0 1 1797.8748 418.3081)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="429.242" x2="2355.591" y2="429.242"/>
+<text transform="matrix(1 0 0 1 1797.8748 454.7534)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<rect x="1795.04" y="465.687" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="465.687" x2="2355.591" y2="465.687"/>
+<text transform="matrix(1 0 0 1 1797.8748 491.1978)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<rect x="1795.04" y="502.132" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="502.132" x2="2355.591" y2="502.132"/>
+<text transform="matrix(1 0 0 1 1797.8748 527.6431)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="538.577" x2="2355.591" y2="538.577"/>
+<text transform="matrix(1 0 0 1 1797.8748 564.0884)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="575.022" x2="2355.591" y2="575.022"/>
+<text transform="matrix(1 0 0 1 1797.8748 600.5337)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="611.467" x2="2355.591" y2="611.467"/>
+<text transform="matrix(1 0 0 1 1797.8748 636.978)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="647.912" x2="2355.591" y2="647.912"/>
+<text transform="matrix(1 0 0 1 1797.8748 673.4233)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="684.357" x2="2355.591" y2="684.357"/>
+<text transform="matrix(1 0 0 1 1797.8748 709.8687)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<rect x="1795.04" y="720.803" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="720.803" x2="2355.591" y2="720.803"/>
+<text transform="matrix(1 0 0 1 1797.8748 746.314)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<rect x="1795.04" y="757.247" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="757.247" x2="2355.591" y2="757.247"/>
+<text transform="matrix(1 0 0 1 1797.8748 782.7583)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="793.692" x2="2355.591" y2="793.692"/>
+<text transform="matrix(1 0 0 1 1797.8748 819.2036)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="830.138" x2="2355.591" y2="830.138"/>
+<text transform="matrix(1 0 0 1 1797.8748 855.6489)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="866.582" x2="2355.591" y2="866.582"/>
+<text transform="matrix(1 0 0 1 1797.8748 892.0933)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="903.027" x2="2355.591" y2="903.027"/>
+<text transform="matrix(1 0 0 1 1797.8748 928.5386)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="939.473" x2="2355.591" y2="939.473"/>
+<text transform="matrix(1 0 0 1 1797.8748 964.9839)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<rect x="1795.04" y="975.918" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="975.918" x2="2355.591" y2="975.918"/>
+<text transform="matrix(1 0 0 1 1797.8748 1001.4292)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 1882.9138 1001.4292)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Kjötsúpudagurinn</text>
+<text transform="matrix(1 0 0 1 2226.3806 1001.4292)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Gormánuður</text>
+<rect x="1795.04" y="1012.362" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1012.362" x2="2355.591" y2="1012.362"/>
+<text transform="matrix(1 0 0 1 1797.8748 1037.8735)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1048.808" x2="2355.591" y2="1048.808"/>
+<text transform="matrix(1 0 0 1 1797.8748 1074.3188)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1085.253" x2="2355.591" y2="1085.253"/>
+<text transform="matrix(1 0 0 1 1797.8748 1110.7642)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1121.697" x2="2355.591" y2="1121.697"/>
+<text transform="matrix(1 0 0 1 1797.8748 1147.2085)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1158.143" x2="2355.591" y2="1158.143"/>
+<text transform="matrix(1 0 0 1 1797.8748 1183.6538)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1194.588" x2="2355.591" y2="1194.588"/>
+<text transform="matrix(1 0 0 1 1797.8748 1220.0991)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<rect x="1795.04" y="1231.033" fill="#D2D2D2" width="560.551" height="36.444"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1231.033" x2="2355.591" y2="1231.033"/>
+<text transform="matrix(1 0 0 1 1797.8748 1256.5444)" font-family="'HelveticaNeue-Bold'" font-size="21">31</text>
+<rect x="1795.04" y="1267.478" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1795.04" y1="1267.478" x2="2355.591" y2="1267.478"/>
+<text transform="matrix(1 0 0 1 1797.8748 1292.9893)" font-family="'HelveticaNeue-Bold'" font-size="21">NÓV</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1303.923" x2="2355.591" y2="1303.923"/>
+<text transform="matrix(1 0 0 1 1797.8748 1329.4341)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1340.368" x2="2355.591" y2="1340.368"/>
+<text transform="matrix(1 0 0 1 1797.8748 1365.8794)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1376.812" x2="2355.591" y2="1376.812"/>
+<text transform="matrix(1 0 0 1 1797.8748 1402.3242)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1413.258" x2="2355.591" y2="1413.258"/>
+<text transform="matrix(1 0 0 1 1797.8748 1438.769)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1449.703" x2="2355.591" y2="1449.703"/>
+<text transform="matrix(1 0 0 1 1797.8748 1475.2144)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<rect x="1795.04" y="1486.148" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1486.148" x2="2355.591" y2="1486.148"/>
+<text transform="matrix(1 0 0 1 1797.8748 1511.6597)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<rect x="1795.04" y="1522.593" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1522.593" x2="2355.591" y2="1522.593"/>
+<text transform="matrix(1 0 0 1 1797.8748 1548.1045)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1559.038" x2="2355.591" y2="1559.038"/>
+<text transform="matrix(1 0 0 1 1797.8748 1584.5493)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1595.483" x2="2355.591" y2="1595.483"/>
+<text transform="matrix(1 0 0 1 1797.8748 1620.9946)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1631.928" x2="2355.591" y2="1631.928"/>
+<text transform="matrix(1 0 0 1 1797.8748 1657.4395)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1668.373" x2="2355.591" y2="1668.373"/>
+<text transform="matrix(1 0 0 1 1797.8748 1693.8843)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1704.818" x2="2355.591" y2="1704.818"/>
+<text transform="matrix(1 0 0 1 1797.8748 1730.3296)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<rect x="1795.04" y="1741.263" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1741.263" x2="2355.591" y2="1741.263"/>
+<text transform="matrix(1 0 0 1 1797.8748 1766.7749)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<rect x="1795.04" y="1777.708" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1777.708" x2="2355.591" y2="1777.708"/>
+<text transform="matrix(1 0 0 1 1797.8748 1803.2202)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1814.154" x2="2355.591" y2="1814.154"/>
+<text transform="matrix(1 0 0 1 1797.8748 1839.6646)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1850.599" x2="2355.591" y2="1850.599"/>
+<text transform="matrix(1 0 0 1 1797.8748 1876.1099)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1887.042" x2="2355.591" y2="1887.042"/>
+<text transform="matrix(1 0 0 1 1797.8748 1912.5542)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1923.488" x2="2355.591" y2="1923.488"/>
+<text transform="matrix(1 0 0 1 1797.8748 1948.9995)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1959.933" x2="2355.591" y2="1959.933"/>
+<text transform="matrix(1 0 0 1 1797.8748 1985.4448)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<rect x="1795.04" y="1996.378" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="1996.378" x2="2355.591" y2="1996.378"/>
+<text transform="matrix(1 0 0 1 1797.8748 2021.8901)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<rect x="1795.04" y="2032.824" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2032.824" x2="2355.591" y2="2032.824"/>
+<text transform="matrix(1 0 0 1 1797.8748 2058.3354)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2069.269" x2="2355.591" y2="2069.269"/>
+<text transform="matrix(1 0 0 1 1797.8748 2094.7798)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<text transform="matrix(1 0 0 1 2319.7449 2094.7798)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Ýlir</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2105.714" x2="2355.591" y2="2105.714"/>
+<text transform="matrix(1 0 0 1 1797.8748 2131.2251)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2142.158" x2="2355.591" y2="2142.158"/>
+<text transform="matrix(1 0 0 1 1797.8748 2167.6704)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2178.603" x2="2355.591" y2="2178.603"/>
+<text transform="matrix(1 0 0 1 1797.8748 2204.1147)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2215.048" x2="2355.591" y2="2215.048"/>
+<text transform="matrix(1 0 0 1 1797.8748 2240.5601)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<rect x="1795.04" y="2251.494" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2251.494" x2="2355.591" y2="2251.494"/>
+<text transform="matrix(1 0 0 1 1797.8748 2277.0054)" font-family="'HelveticaNeue-Bold'" font-size="21">28</text>
+<rect x="1795.04" y="2287.939" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2287.939" x2="2355.591" y2="2287.939"/>
+<text transform="matrix(1 0 0 1 1797.8748 2313.4507)" font-family="'HelveticaNeue-Bold'" font-size="21">29</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2324.384" x2="2355.591" y2="2324.384"/>
+<text transform="matrix(1 0 0 1 1797.8748 2349.896)" font-family="'HelveticaNeue-Bold'" font-size="21">30</text>
+<line fill="none" stroke="#000000" stroke-width="4" x1="1795.04" y1="2360.83" x2="2355.591" y2="2360.83"/>
+<text transform="matrix(1 0 0 1 1797.8748 2386.3403)" font-family="'HelveticaNeue-Bold'" font-size="21">DES</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2397.275" x2="2355.591" y2="2397.275"/>
+<text transform="matrix(1 0 0 1 1797.8748 2422.7856)" font-family="'HelveticaNeue-Bold'" font-size="21">2</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2433.718" x2="2355.591" y2="2433.718"/>
+<text transform="matrix(1 0 0 1 1797.8748 2459.23)" font-family="'HelveticaNeue-Bold'" font-size="21">3</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2470.164" x2="2355.591" y2="2470.164"/>
+<text transform="matrix(1 0 0 1 1797.8748 2495.6753)" font-family="'HelveticaNeue-Bold'" font-size="21">4</text>
+<rect x="1795.04" y="2506.609" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2506.609" x2="2355.591" y2="2506.609"/>
+<text transform="matrix(1 0 0 1 1797.8748 2532.1206)" font-family="'HelveticaNeue-Bold'" font-size="21">5</text>
+<rect x="1795.04" y="2543.054" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2543.054" x2="2355.591" y2="2543.054"/>
+<text transform="matrix(1 0 0 1 1797.8748 2568.5659)" font-family="'HelveticaNeue-Bold'" font-size="21">6</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2579.5" x2="2355.591" y2="2579.5"/>
+<text transform="matrix(1 0 0 1 1797.8748 2605.0103)" font-family="'HelveticaNeue-Bold'" font-size="21">7</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2615.945" x2="2355.591" y2="2615.945"/>
+<text transform="matrix(1 0 0 1 1797.8748 2641.4556)" font-family="'HelveticaNeue-Bold'" font-size="21">8</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2652.388" x2="2355.591" y2="2652.388"/>
+<text transform="matrix(1 0 0 1 1797.8748 2677.9009)" font-family="'HelveticaNeue-Bold'" font-size="21">9</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2688.833" x2="2355.591" y2="2688.833"/>
+<text transform="matrix(1 0 0 1 1797.8748 2714.3452)" font-family="'HelveticaNeue-Bold'" font-size="21">10</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2725.279" x2="2355.591" y2="2725.279"/>
+<text transform="matrix(1 0 0 1 1797.8748 2750.7905)" font-family="'HelveticaNeue-Bold'" font-size="21">11</text>
+<rect x="1795.04" y="2761.724" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2761.724" x2="2355.591" y2="2761.724"/>
+<text transform="matrix(1 0 0 1 1797.8748 2787.2358)" font-family="'HelveticaNeue-Bold'" font-size="21">12</text>
+<text transform="matrix(1 0 0 1 1882.9138 2787.2358)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Stekkjarstaur</text>
+<rect x="1795.04" y="2798.169" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2798.169" x2="2355.591" y2="2798.169"/>
+<text transform="matrix(1 0 0 1 1797.8748 2823.6812)" font-family="'HelveticaNeue-Bold'" font-size="21">13</text>
+<text transform="matrix(1 0 0 1 1882.9138 2823.6812)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Giljagaur</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2834.615" x2="2355.591" y2="2834.615"/>
+<text transform="matrix(1 0 0 1 1797.8748 2860.1265)" font-family="'HelveticaNeue-Bold'" font-size="21">14</text>
+<text transform="matrix(1 0 0 1 1882.9138 2860.1265)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Stúfur</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2871.06" x2="2355.591" y2="2871.06"/>
+<text transform="matrix(1 0 0 1 1797.8748 2896.5708)" font-family="'HelveticaNeue-Bold'" font-size="21">15</text>
+<text transform="matrix(1 0 0 1 1882.9138 2896.5708)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Þvörusleikir</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2907.505" x2="2355.591" y2="2907.505"/>
+<text transform="matrix(1 0 0 1 1797.8748 2933.0161)" font-family="'HelveticaNeue-Bold'" font-size="21">16</text>
+<text transform="matrix(1 0 0 1 1882.9138 2933.0161)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Pottaskefill</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2943.951" x2="2355.591" y2="2943.951"/>
+<text transform="matrix(1 0 0 1 1797.8748 2969.4614)" font-family="'HelveticaNeue-Bold'" font-size="21">17</text>
+<text transform="matrix(1 0 0 1 1882.9138 2969.4614)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Askasleikir</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="2980.394" x2="2355.591" y2="2980.394"/>
+<text transform="matrix(1 0 0 1 1797.8748 3005.9058)" font-family="'HelveticaNeue-Bold'" font-size="21">18</text>
+<text transform="matrix(1 0 0 1 1882.9138 3005.9058)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Hurðaskellir</text>
+<rect x="1795.04" y="3016.839" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3016.839" x2="2355.591" y2="3016.839"/>
+<text transform="matrix(1 0 0 1 1797.8748 3042.3511)" font-family="'HelveticaNeue-Bold'" font-size="21">19</text>
+<text transform="matrix(1 0 0 1 1882.9138 3042.3511)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Skyrgámur</text>
+<rect x="1795.04" y="3053.285" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3053.285" x2="2355.591" y2="3053.285"/>
+<text transform="matrix(1 0 0 1 1797.8748 3078.7964)" font-family="'HelveticaNeue-Bold'" font-size="21">20</text>
+<text transform="matrix(1 0 0 1 1882.9138 3078.7964)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Bjúgnakrækir</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3089.73" x2="2355.591" y2="3089.73"/>
+<text transform="matrix(1 0 0 1 1797.8748 3115.2417)" font-family="'HelveticaNeue-Bold'" font-size="21">21</text>
+<text transform="matrix(1 0 0 1 1882.9138 3115.2417)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Gluggagægir</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3126.175" x2="2355.591" y2="3126.175"/>
+<text transform="matrix(1 0 0 1 1797.8748 3151.686)" font-family="'HelveticaNeue-Bold'" font-size="21">22</text>
+<text transform="matrix(1 0 0 1 1882.9138 3151.686)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Gáttaþefur</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3162.621" x2="2355.591" y2="3162.621"/>
+<text transform="matrix(1 0 0 1 1797.8748 3188.1313)" font-family="'HelveticaNeue-Bold'" font-size="21">23</text>
+<text transform="matrix(1 0 0 1 1882.9138 3188.1313)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Ketkrókur</text>
+<text transform="matrix(1 0 0 1 2255.5271 3188.1313)" fill="#585858" font-family="'HelveticaNeue-Bold'" font-size="21">Mörsugur</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3199.064" x2="2355.591" y2="3199.064"/>
+<text transform="matrix(1 0 0 1 1797.8748 3224.5757)" font-family="'HelveticaNeue-Bold'" font-size="21">24</text>
+<text transform="matrix(1 0 0 1 1882.9138 3224.5757)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Kertasníkir/Aðfangadagur</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3235.509" x2="2355.591" y2="3235.509"/>
+<text transform="matrix(1 0 0 1 1797.8748 3261.021)" font-family="'HelveticaNeue-Bold'" font-size="21">25</text>
+<text transform="matrix(1 0 0 1 1882.9138 3261.021)" fill="#9E9E9E" font-family="'HelveticaNeue-Bold'" font-size="21">Jóladagur</text>
+<rect x="1795.04" y="3271.955" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3271.955" x2="2355.591" y2="3271.955"/>
+<text transform="matrix(1 0 0 1 1797.8748 3297.4663)" font-family="'HelveticaNeue-Bold'" font-size="21">26</text>
+<text transform="matrix(1 0 0 1 1882.9138 3297.4663)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="21">Annar í jólum</text>
+<rect x="1795.04" y="3308.4" fill="#D2D2D2" width="560.551" height="36.445"/>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3308.4" x2="2355.591" y2="3308.4"/>
+<text transform="matrix(1 0 0 1 1797.8748 3333.9116)" font-family="'HelveticaNeue-Bold'" font-size="21">27</text>
+<line fill="none" stroke="#000000" x1="1795.04" y1="3344.845" x2="2355.591" y2="3344.845"/>
 </svg>
