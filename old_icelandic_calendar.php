@@ -38,6 +38,7 @@ class OldIcelandicDate {
 	public $month  = NULL;
 	public $day    = NULL;
 	public $is_summer = false;
+	public $ordinal = 'th';
 
 	private function JulianDate($day, 
 						$month, 
@@ -65,8 +66,7 @@ class OldIcelandicDate {
 
 		if ($month == NULL) { $month = date('n'); }
 
-		//if ($year == NULL) { $year = date('Y'); }
-
+		if ($year == NULL ) { $year = date('Y'); }
 
 		$jd = $this->JulianDate($day, $month, $year);
 		$sa = $this->sumarauki($year);
@@ -93,6 +93,12 @@ class OldIcelandicDate {
 		$this->month = $im;
 		$this->month_name = $this->manudhr[$im];
 		$this->day = $id;
+		switch((int)$id){
+			case 1: $this->ordinal = 'st'; break;
+			case 2: $this->ordinal = 'nd'; break;
+			case 3: $this->ordinal = 'rd'; break;
+			default: $this->ordinal = 'th'; break;
+		}
 		$this->day_name = $this->vikudagar[(($jd+1)%7)];
 		if (($im > 5) && ($im < 12) || ($im == 12)) {
 			$this->is_summer = true;
