@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2020;
+$year = 2021;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){
@@ -117,6 +117,7 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 					*/
 
 					);
+//$holidays = array();
 
 // Old Icelandic Months (right aligned) (Get these dynamically)
 // Inefficient, but works
