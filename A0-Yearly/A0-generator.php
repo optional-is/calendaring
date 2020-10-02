@@ -99,22 +99,6 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  // Birthdays!
 				  // MM-DD => <Display String>
 				  //'05-29'=>'• Brian',
-				  /*
-					'02-09'=>'• Bergþora',
-					'02-15'=>'• Hakon/Jósep',
-					'02-24'=>'• Orri',
-					'05-04'=>'• Erik',
-					'05-14'=>'• Ninja',
-					'05-24'=>'• Lóa',
-					'05-29'=>'• Brian',
-					'06-11'=>'• Soley',
-					'06-18'=>'• Jörundur',
-					'07-01'=>'• Hinrik',
-					'07-25'=>'• Omar',
-					'09-05'=>'• Ingibjorg',
-					'11-30'=>'• Hekla',
-					'12-12'=>'• Gunni Alexander'
-					*/
 
 					);
 //$holidays = array();
