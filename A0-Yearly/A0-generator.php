@@ -66,9 +66,9 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',$easter)=>'Páskadagur',//'Easter',
 				  date('m-d',strtotime('+1 days',$easter))=>'Annar í páskum',//'Easter Monday',
 				  date('m-d',strtotime('-2 days',$easter))=>'Föstudagurinn langi',//'Good Friday',
-				  '02-24'=>'Bolludagur',// Bun Day
-				  '02-25'=>'Sprengidagur',// Pancake Tuesday
-				  '02-26'=>'Öskudagur',// Ash Wednesday
+				  date('m-d',strtotime('-41 days',$easter))=>'Bolludagur',// Bun Day
+				  date('m-d',strtotime('-40 days',$easter))=>'Sprengidagur',// Pancake Tuesday
+				  date('m-d',strtotime('-39 days',$easter))=>'Öskudagur',// Ash Wednesday
 				  date('m-d',strtotime('-7 days',$easter))=>'Pálmasunnudagur',//'Holy Thursday',
 				  date('m-d',strtotime('-3 days',$easter))=>'Skírdagur',//'Holy Thursday',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
@@ -99,7 +99,22 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  // Birthdays!
 				  // MM-DD => <Display String>
 				  //'05-29'=>'• Brian',
-
+                                  /*
+                                        '02-09'=>'• Bergþóra',
+                                        '02-15'=>'• Hakon/Jósep',
+                                        '02-24'=>'• Orri',
+                                        '05-04'=>'• Erik',
+                                        '05-14'=>'• Ninja',
+                                        '05-24'=>'• Lóa',
+                                        '05-29'=>'• Brian',
+                                        '06-11'=>'• Soley',
+                                        '06-18'=>'• Jörundur',
+                                        '07-01'=>'• Hinrik',
+                                        '07-25'=>'• Omar',
+                                        '09-05'=>'• Ingibjorg',
+                                        '11-30'=>'• Hekla',
+                                        '12-12'=>'• Gunni Alexander'
+                                        */
 					);
 //$holidays = array();
 
