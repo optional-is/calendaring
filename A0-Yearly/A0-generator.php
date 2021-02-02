@@ -66,9 +66,9 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',$easter)=>'Páskadagur',//'Easter',
 				  date('m-d',strtotime('+1 days',$easter))=>'Annar í páskum',//'Easter Monday',
 				  date('m-d',strtotime('-2 days',$easter))=>'Föstudagurinn langi',//'Good Friday',
-				  date('m-d',strtotime('-41 days',$easter))=>'Bolludagur',// Bun Day
-				  date('m-d',strtotime('-40 days',$easter))=>'Sprengidagur',// Pancake Tuesday
-				  date('m-d',strtotime('-39 days',$easter))=>'Öskudagur',// Ash Wednesday
+				  date('m-d',strtotime('-48 days',$easter))=>'Bolludagur',// Bun Day
+				  date('m-d',strtotime('-47 days',$easter))=>'Sprengidagur',// Pancake Tuesday
+				  date('m-d',strtotime('-46 days',$easter))=>'Öskudagur',// Ash Wednesday
 				  date('m-d',strtotime('-7 days',$easter))=>'Pálmasunnudagur',//'Holy Thursday',
 				  date('m-d',strtotime('-3 days',$easter))=>'Skírdagur',//'Holy Thursday',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
