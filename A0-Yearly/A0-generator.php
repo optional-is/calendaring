@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2021;
+$year = 2022;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){
