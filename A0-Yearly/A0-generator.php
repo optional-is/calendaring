@@ -74,9 +74,9 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
 				  date('m-d',strtotime('+49 days',$easter))=>'Hvítasunnudagur',//'Whit Sunday',
 				  date('m-d',strtotime('+50 days',$easter))=>'Annar í hvítasunnu',//'Whit Monday',
-				  date('m-d',strtotime('First Sunday June '.$year))=>'Sjómannadagurinn',
-				  date('m-d',strtotime('First Monday August '.$year))=>'Verslunamanna',
-				  date('m-d',strtotime('Second Sunday May '.$year))=>'Mæðradagurinn',
+				  date('m-d',strtotime('First of Sunday June '.$year))=>'Sjómannadagurinn',
+				  date('m-d',strtotime('First of Monday August '.$year))=>'Verslunamanna',
+				  date('m-d',strtotime('Second of Sunday May '.$year))=>'Mæðradagurinn',
 				  // First Day of Summer (Added in Old Icelandic List)
 
 
