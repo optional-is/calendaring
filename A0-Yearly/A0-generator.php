@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2022;
+$year = 2030;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){
@@ -59,6 +59,8 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  '06-19'=>'Kvenréttindadagurinn',
 				  '06-24'=>'Jónsmessa',
 				  '10-24'=>'Kvennafrídagurinn',//'Women\'s Day Off',
+				  '11-16'=>'Dagur Íslenskrar Tungu', //Day of the Icelandic language
+				  '12-01'=>'Fullveldisdagurinn',
 				  '12-24'=>'Aðfangadagur',//'Christmas Eve',
 				  '12-25'=>'Jóladagur',//'Christmas Day',
 				  '12-26'=>'Annar í jólum', //'Day After Christmas',
