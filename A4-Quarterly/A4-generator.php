@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2030;
+$year = 2023;
 
 echo '<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">';
@@ -55,7 +55,7 @@ $dayOfWeek = date('w',$firstDay);
 
 $offset = 0;
 // Week 1
-if ($dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 4){
+if ($dayOfWeek == 0 || $dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 4){
 	$offset = 1;
   $firstDay = strtotime('- '.($dayOfWeek).' days',$firstDay);
 } else {
@@ -63,6 +63,8 @@ if ($dayOfWeek == 1 || $dayOfWeek == 2 || $dayOfWeek == 3 || $dayOfWeek == 4){
 	$offset = (8-$dayOfWeek);
 }
 $counter = $offset;
+
+
 
 
 for($quarter=0;$quarter<4;$quarter++){
