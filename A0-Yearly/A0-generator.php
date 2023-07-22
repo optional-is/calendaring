@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2030;
+$year = 2029;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){
@@ -76,9 +76,9 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
 				  date('m-d',strtotime('+49 days',$easter))=>'Hvítasunnudagur',//'Whit Sunday',
 				  date('m-d',strtotime('+50 days',$easter))=>'Annar í hvítasunnu',//'Whit Monday',
-				  date('m-d',strtotime('First of Sunday June '.$year))=>'Sjómannadagurinn',
-				  date('m-d',strtotime('First of Monday August '.$year))=>'Verslunamanna',
-				  date('m-d',strtotime('Second of Sunday May '.$year))=>'Mæðradagurinn',
+          date('m-d',strtotime($year.'-06-01 first sunday'))=>'Sjómannadagurinn',
+          date('m-d',strtotime($year.'-08-01 first monday'))=>'Verslunamanna',
+          date('m-d',strtotime($year.'-05-01 second sunday'))=>'Mæðradagurinn',
 				  // First Day of Summer (Added in Old Icelandic List)
 
 
@@ -112,6 +112,7 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
                                         '06-11'=>'• Soley',
                                         '06-18'=>'• Jörundur',
                                         '07-01'=>'• Hinrik',
+                                        '07-12'=>'• Chris',
                                         '07-25'=>'• Omar',
                                         '09-05'=>'• Ingibjorg',
                                         '11-30'=>'• Hekla',

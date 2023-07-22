@@ -307,6 +307,7 @@
 <rect x="217.75mm" y="447.138mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="447.138mm" x2="415.5mm" y2="447.138mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="456.138mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
+<text text-anchor="start" y="456.138mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Mæðradagurinn</text>
 <line x1="217.75mm" y1="459.995mm" x2="415.5mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="468.995mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
 <line x1="217.75mm" y1="472.852mm" x2="415.5mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -374,6 +375,7 @@
 <rect x="217.75mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="807.134mm" x2="415.5mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="816.134mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
+<text text-anchor="start" y="816.134mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Sjómannadagurinn</text>
 <line x1="217.75mm" y1="819.991mm" x2="415.5mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="828.991mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
 <line x1="217.75mm" y1="832.848mm" x2="415.5mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -481,7 +483,7 @@
 <text text-anchor="start" y="211.855mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
 <line x1="425.5mm" y1="215.712mm" x2="623.25mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="224.712mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<text text-anchor="end" y="224.712mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sumarauki</text>
+<text text-anchor="end" y="224.712mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Aukanætur</text>
 <line x1="425.5mm" y1="228.569mm" x2="623.25mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="237.569mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
 <line x1="425.5mm" y1="241.426mm" x2="623.25mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -511,6 +513,7 @@
 <text text-anchor="start" y="366.139mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">ÁGÚ</text>
 <line x1="425.5mm" y1="369.996mm" x2="623.25mm" y2="369.996mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="378.996mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
+<text text-anchor="start" y="378.996mm" x="456.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Verslunamanna</text>
 <line x1="425.5mm" y1="382.853mm" x2="623.25mm" y2="382.853mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="391.853mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
 <line x1="425.5mm" y1="395.71mm" x2="623.25mm" y2="395.71mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -884,7 +887,7 @@
 <rect x="633.25mm" y="1154.273mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="633.25mm" y1="1154.273mm" x2="831mm" y2="1154.273mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
 <text text-anchor="start" y="1163.273mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JAN</text>
-<text text-anchor="start" y="1163.273mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Mæðradagurinn</text>
+<text text-anchor="start" y="1163.273mm" x="664.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Nýársdagur</text>
 <rect x="633.25mm" y="1167.13mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="633.25mm" y1="1167.13mm" x2="831mm" y2="1167.13mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="1176.13mm" x="634.25mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>

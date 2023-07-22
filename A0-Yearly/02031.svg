@@ -137,10 +137,13 @@
 <text text-anchor="end" y="726.135mm" x="206.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Góa</text>
 <line x1="10mm" y1="729.992mm" x2="207.75mm" y2="729.992mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="738.992mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
+<text text-anchor="start" y="738.992mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Bolludagur</text>
 <line x1="10mm" y1="742.849mm" x2="207.75mm" y2="742.849mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="751.849mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
+<text text-anchor="start" y="751.849mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Sprengidagur</text>
 <line x1="10mm" y1="755.706mm" x2="207.75mm" y2="755.706mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="764.706mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">26</text>
+<text text-anchor="start" y="764.706mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Öskudagur</text>
 <line x1="10mm" y1="768.563mm" x2="207.75mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="777.563mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">27</text>
 <line x1="10mm" y1="781.42mm" x2="207.75mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -153,13 +156,10 @@
 <text text-anchor="start" y="816.134mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
 <line x1="10mm" y1="819.991mm" x2="207.75mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="828.991mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
-<text text-anchor="start" y="828.991mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Bolludagur</text>
 <line x1="10mm" y1="832.848mm" x2="207.75mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="841.848mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
-<text text-anchor="start" y="841.848mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Sprengidagur</text>
 <line x1="10mm" y1="845.705mm" x2="207.75mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="854.705mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
-<text text-anchor="start" y="854.705mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Öskudagur</text>
 <line x1="10mm" y1="858.562mm" x2="207.75mm" y2="858.562mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="867.562mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
 <line x1="10mm" y1="871.419mm" x2="207.75mm" y2="871.419mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -236,6 +236,7 @@
 <rect x="217.75mm" y="87.142mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="87.142mm" x2="415.5mm" y2="87.142mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="96.142mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
+<text text-anchor="start" y="96.142mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Pálmasunnudagur</text>
 <line x1="217.75mm" y1="99.999mm" x2="415.5mm" y2="99.999mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="108.999mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">7</text>
 <line x1="217.75mm" y1="112.856mm" x2="415.5mm" y2="112.856mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -244,37 +245,36 @@
 <text text-anchor="start" y="134.713mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
 <line x1="217.75mm" y1="138.57mm" x2="415.5mm" y2="138.57mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="147.57mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
+<text text-anchor="start" y="147.57mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Skírdagur</text>
 <line x1="217.75mm" y1="151.427mm" x2="415.5mm" y2="151.427mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="160.427mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">11</text>
+<text text-anchor="start" y="160.427mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Föstudagurinn langi</text>
 <rect x="217.75mm" y="164.284mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="164.284mm" x2="415.5mm" y2="164.284mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="173.284mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
 <rect x="217.75mm" y="177.141mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="177.141mm" x2="415.5mm" y2="177.141mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="186.141mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
-<text text-anchor="start" y="186.141mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Pálmasunnudagur</text>
+<text text-anchor="start" y="186.141mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Páskadagur</text>
 <line x1="217.75mm" y1="189.998mm" x2="415.5mm" y2="189.998mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="198.998mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">14</text>
+<text text-anchor="start" y="198.998mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Annar í páskum</text>
 <line x1="217.75mm" y1="202.855mm" x2="415.5mm" y2="202.855mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="211.855mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">15</text>
 <line x1="217.75mm" y1="215.712mm" x2="415.5mm" y2="215.712mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="224.712mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">16</text>
 <line x1="217.75mm" y1="228.569mm" x2="415.5mm" y2="228.569mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="237.569mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">17</text>
-<text text-anchor="start" y="237.569mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Skírdagur</text>
 <line x1="217.75mm" y1="241.426mm" x2="415.5mm" y2="241.426mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="250.426mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">18</text>
-<text text-anchor="start" y="250.426mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Föstudagurinn langi</text>
 <rect x="217.75mm" y="254.283mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="254.283mm" x2="415.5mm" y2="254.283mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="263.283mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">19</text>
 <rect x="217.75mm" y="267.14mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="267.14mm" x2="415.5mm" y2="267.14mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="276.14mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">20</text>
-<text text-anchor="start" y="276.14mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Páskadagur</text>
 <line x1="217.75mm" y1="279.997mm" x2="415.5mm" y2="279.997mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="288.997mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
-<text text-anchor="start" y="288.997mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Annar í páskum</text>
 <line x1="217.75mm" y1="292.854mm" x2="415.5mm" y2="292.854mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="301.854mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
 <line x1="217.75mm" y1="305.711mm" x2="415.5mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -349,6 +349,7 @@
 <text text-anchor="start" y="674.707mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">21</text>
 <line x1="217.75mm" y1="678.564mm" x2="415.5mm" y2="678.564mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="687.564mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">22</text>
+<text text-anchor="start" y="687.564mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Uppstigningardagur</text>
 <line x1="217.75mm" y1="691.421mm" x2="415.5mm" y2="691.421mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="700.421mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
 <rect x="217.75mm" y="704.278mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
@@ -366,7 +367,6 @@
 <text text-anchor="start" y="764.706mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">28</text>
 <line x1="217.75mm" y1="768.563mm" x2="415.5mm" y2="768.563mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="777.563mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">29</text>
-<text text-anchor="start" y="777.563mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Uppstigningardagur</text>
 <line x1="217.75mm" y1="781.42mm" x2="415.5mm" y2="781.42mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="790.42mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">30</text>
 <rect x="217.75mm" y="794.277mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
@@ -375,8 +375,10 @@
 <rect x="217.75mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="807.134mm" x2="415.5mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
 <text text-anchor="start" y="816.134mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JÚN</text>
+<text text-anchor="start" y="816.134mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Hvítasunnudagur</text>
 <line x1="217.75mm" y1="819.991mm" x2="415.5mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="828.991mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
+<text text-anchor="start" y="828.991mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Annar í hvítasunnu</text>
 <line x1="217.75mm" y1="832.848mm" x2="415.5mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="841.848mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
 <line x1="217.75mm" y1="845.705mm" x2="415.5mm" y2="845.705mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -394,7 +396,6 @@
 <text text-anchor="start" y="906.133mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Sjómannadagurinn</text>
 <line x1="217.75mm" y1="909.99mm" x2="415.5mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="918.99mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
-<text text-anchor="start" y="918.99mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Annar í hvítasunnu</text>
 <line x1="217.75mm" y1="922.847mm" x2="415.5mm" y2="922.847mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="931.847mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">10</text>
 <line x1="217.75mm" y1="935.704mm" x2="415.5mm" y2="935.704mm" style="stroke:rgb(0,0,0);stroke-width:1"/>

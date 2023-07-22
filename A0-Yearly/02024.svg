@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="841mm" height="1189mm"><rect x="0" y="0" width="841mm" height="1189mm" style="fill:rgb(255,255,255);stroke-width:.5;stroke:rgb(0,0,0)"/>
 <line x1="10mm" y1="10mm" x2="207.75mm" y2="10mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
 <text text-anchor="start" y="19mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JAN</text>
-<text text-anchor="start" y="19mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Mæðradagurinn</text>
+<text text-anchor="start" y="19mm" x="41mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Nýársdagur</text>
 <line x1="10mm" y1="22.857mm" x2="207.75mm" y2="22.857mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="31.857mm" x="11mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
 <line x1="10mm" y1="35.714mm" x2="207.75mm" y2="35.714mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -324,6 +324,7 @@
 <rect x="217.75mm" y="537.137mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="537.137mm" x2="415.5mm" y2="537.137mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="546.137mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">12</text>
+<text text-anchor="start" y="546.137mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Mæðradagurinn</text>
 <line x1="217.75mm" y1="549.994mm" x2="415.5mm" y2="549.994mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="558.994mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">13</text>
 <line x1="217.75mm" y1="562.851mm" x2="415.5mm" y2="562.851mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -375,6 +376,7 @@
 <rect x="217.75mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="807.134mm" x2="415.5mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="816.134mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
+<text text-anchor="start" y="816.134mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Sjómannadagurinn</text>
 <line x1="217.75mm" y1="819.991mm" x2="415.5mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="828.991mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">3</text>
 <line x1="217.75mm" y1="832.848mm" x2="415.5mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -498,7 +500,7 @@
 <text text-anchor="start" y="301.854mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">23</text>
 <line x1="425.5mm" y1="305.711mm" x2="623.25mm" y2="305.711mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="314.711mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">24</text>
-<text text-anchor="end" y="314.711mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Sumarauki</text>
+<text text-anchor="end" y="314.711mm" x="622.25mm" font-family="'HelveticaNeue'" font-size="21" fill="#585858" style="font-weight: bold;">Aukanætur</text>
 <line x1="425.5mm" y1="318.568mm" x2="623.25mm" y2="318.568mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="327.568mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">25</text>
 <line x1="425.5mm" y1="331.425mm" x2="623.25mm" y2="331.425mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -528,6 +530,7 @@
 <text text-anchor="start" y="456.138mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">4</text>
 <line x1="425.5mm" y1="459.995mm" x2="623.25mm" y2="459.995mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="468.995mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">5</text>
+<text text-anchor="start" y="468.995mm" x="456.5mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Verslunamanna</text>
 <line x1="425.5mm" y1="472.852mm" x2="623.25mm" y2="472.852mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="481.852mm" x="426.5mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">6</text>
 <line x1="425.5mm" y1="485.709mm" x2="623.25mm" y2="485.709mm" style="stroke:rgb(0,0,0);stroke-width:1"/>

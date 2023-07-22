@@ -30,6 +30,7 @@ class OldIcelandicDate {
 					 "Heyannir", 
 					 "Tvímánuður", 
 					 "Haustmánuður", 
+					 "Aukanætur",
 					 "Sumarauki"
 					 );
 
@@ -80,6 +81,10 @@ class OldIcelandicDate {
 			if ($jd < $heyannir) {
 				$id = $jd - $sa + 1;
 				$im = 12;
+				if ($id > 4){
+					$id -= 4;
+					$im = 13; 
+				}
 			} else {
 				$n = $jd - $heyannir;
 				$id = ($n % 30) + 1;
