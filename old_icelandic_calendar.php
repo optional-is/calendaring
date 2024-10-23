@@ -61,6 +61,14 @@ class OldIcelandicDate {
 		return $j;
 	}
 
+	public function cardinal_suffix($num){
+		if ((int)$num == 1){ return 'st'; }
+		if ((int)$num == 2){ return 'nd'; }
+		if ((int)$num == 3){ return 'rd'; }
+		
+		return 'th';
+	}
+
 	public function __construct($year=NULL, $month=NULL, $day=NULL) {
 
 		if ($day == NULL) { $day = date('j'); }
