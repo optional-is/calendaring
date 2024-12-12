@@ -375,6 +375,7 @@
 <rect x="217.75mm" y="807.134mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="807.134mm" x2="415.5mm" y2="807.134mm" style="stroke:rgb(0,0,0);stroke-width:4"/>
 <text text-anchor="start" y="816.134mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">JÚN</text>
+<text text-anchor="start" y="816.134mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Sjómannadagurinn</text>
 <line x1="217.75mm" y1="819.991mm" x2="415.5mm" y2="819.991mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="828.991mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">2</text>
 <line x1="217.75mm" y1="832.848mm" x2="415.5mm" y2="832.848mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
@@ -391,7 +392,7 @@
 <rect x="217.75mm" y="897.133mm" width="197.75mm" height="12.857mm" style="fill:rgb(210,210,210);"/>
 <line x1="217.75mm" y1="897.133mm" x2="415.5mm" y2="897.133mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="906.133mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">8</text>
-<text text-anchor="start" y="906.133mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Sjómannadagurinn</text>
+<text text-anchor="start" y="906.133mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#ffffff" style="font-weight: bold;">Hvítasunnudagur</text>
 <line x1="217.75mm" y1="909.99mm" x2="415.5mm" y2="909.99mm" style="stroke:rgb(0,0,0);stroke-width:1"/>
 <text text-anchor="start" y="918.99mm" x="218.75mm" font-family="'HelveticaNeue'" font-size="21" style="font-weight: bold;">9</text>
 <text text-anchor="start" y="918.99mm" x="248.75mm" font-family="'HelveticaNeue'" font-size="21" fill="#9E9E9E" style="font-weight: bold;">Annar í hvítasunnu</text>

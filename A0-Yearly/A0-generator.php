@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Atlantic/Reykjavik');
 
-$year = 2029;
+$year = 2025;
 
 // Switch these to what ever language you want
 function translate_month_name($en_month){
@@ -76,9 +76,9 @@ $holidays = array('05-01'=>'Verkalýðsdagurinn',//'May Day',
 				  date('m-d',strtotime('+39 days',$easter))=>'Uppstigningardagur',//'Ascension',
 				  date('m-d',strtotime('+49 days',$easter))=>'Hvítasunnudagur',//'Whit Sunday',
 				  date('m-d',strtotime('+50 days',$easter))=>'Annar í hvítasunnu',//'Whit Monday',
-          date('m-d',strtotime($year.'-06-01 first sunday'))=>'Sjómannadagurinn',
-          date('m-d',strtotime($year.'-08-01 first monday'))=>'Verslunamanna',
-          date('m-d',strtotime($year.'-05-01 second sunday'))=>'Mæðradagurinn',
+          date('m-d',strtotime('first sunday of '.$year.'-06-01'))=>'Sjómannadagurinn',
+          date('m-d',strtotime('first monday of '.$year.'-08-01'))=>'Verslunamanna',
+          date('m-d',strtotime('second sunday of '.$year.'-05-01'))=>'Mæðradagurinn',
 				  // First Day of Summer (Added in Old Icelandic List)
 
 
