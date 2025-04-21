@@ -25,43 +25,34 @@ for($y=0;$y<$years_into_future;$y++){
 
 	// Holiday list (Add movable holidays)
 	// Translate and add as needed
-	$holidays = array(
-				  strtotime(($year+$y).'-05-01')=>'Verkalýðsdagurinn',//'May Day',
-				  strtotime(($year+$y).'-01-01')=>'Nýársdagur',//'New Year\'s Day',
-				  strtotime(($year+$y).'-01-06')=>'Þrettándinn',// Twelfth night
-				  strtotime(($year+$y).'-06-17')=>'Þjóðhátíðardagurinn', //'National Day',
-				  strtotime(($year+$y).'-06-19')=>'Kvenréttindadagurinn',
-				  strtotime(($year+$y).'-06-24')=>'Jónsmessa',
-				  strtotime(($year+$y).'-10-24')=>'Kvennafrídagurinn',//'Women\'s Day Off',
-				  strtotime(($year+$y).'-11-16')=>'Dagur Íslenskrar Tungu', //Day of the Icelandic strtotime(language
-				  strtotime(($year+$y).'-12-01')=>'Fullveldisdagurinn',
-				  strtotime(($year+$y).'-12-24')=>'Aðfangadagur',//'Christmas Eve',
-				  strtotime(($year+$y).'-12-25')=>'Jóladagur',//'Christmas Day',
-				  strtotime(($year+$y).'-12-26')=>'Annar í jólum', //'Day After Christmas',
-				  strtotime(($year+$y).'-12-31')=>'Gamlársdagur', // 'New Year\'s Eve',
-				  $easter=>'Páskadagur',//'Easter',
-				  strtotime('+1 days',$easter)=>'Annar í páskum',//'Easter Monday',
-				  strtotime('-2 days',$easter)=>'Föstudagurinn langi',//'Good Friday',
-				  strtotime('-48 days',$easter)=>'Bolludagur',// Bun Day
-				  strtotime('-47 days',$easter)=>'Sprengidagur',// Pancake Tuesday
-				  strtotime('-46 days',$easter)=>'Öskudagur',// Ash Wednesday
-				  strtotime('-7 days',$easter)=>'Pálmasunnudagur',//'Holy Thursday',
-				  strtotime('-3 days',$easter)=>'Skírdagur',//'Holy Thursday',
-				  strtotime('+39 days',$easter)=>'Uppstigningardagur',//'Ascension',
-				  strtotime('+49 days',$easter)=>'Hvítasunnudagur',//'Whit Sunday',
-				  strtotime('+50 days',$easter)=>'Annar í hvítasunnu',//'Whit Monday',
-		          strtotime('first sunday of '.($year+$y).'-06-01')=>'Sjómannadagurinn',
-		          strtotime('first monday of '.($year+$y).'-08-01')=>'Verslunamanna',
-		          strtotime('second sunday of '.($year+$y).'-05-01')=>'Mæðradagurinn'
-				  // First Day of Summer (Added in Old Icelandic List)
-				);
 
-
-
-
-
-
-
+    $holidays[strtotime(($year+$y).'-05-01')]='Verkalýðsdagurinn';//'May Day'
+    $holidays[strtotime(($year+$y).'-01-01')]='Nýársdagur';//'New Year\'s Day'
+    //$holidays[strtotime(($year+$y).'-01-06')]='Þrettándinn'; // Twelfth nigh
+    $holidays[strtotime(($year+$y).'-06-17')]='Þjóðhátíðardagurinn';//'National $holiday;[Day'
+    //$holidays[strtotime(($year+$y).'-06-19')]='Kvenréttindadagurinn';
+    //$holidays[strtotime(($year+$y).'-06-24')]='Jónsmessa';
+    //$holidays[strtotime(($year+$y).'-10-24')]='Kvennafrídagurinn';//'Women\'s Day;$holidays[Off'
+    //$holidays[strtotime(($year+$y).'-11-16')]='Dagur Íslenskrar Tungu'; //Day of $holiday;[the Icelandic strtotime(languag;
+    //$holidays[strtotime(($year+$y).'-12-01')]='Fullveldisdagurinn';
+    $holidays[strtotime(($year+$y).'-12-24')]='Aðfangadagur'; //'Christmas Eve';
+    $holidays[strtotime(($year+$y).'-12-25')]='Jóladagur'; //'Christmas Day';
+    $holidays[strtotime(($year+$y).'-12-26')]='Annar í jólum'; //'Day After $holidays;Christmas';
+    $holidays[strtotime(($year+$y).'-12-31')]='Gamlársdagur'; // 'New Year\'s Eve';
+    $holidays[$easter] = 'Páskadagur'; //'Easter';
+    $holidays[strtotime('+1 days',$easter)] ='Annar í páskum';//'Easter Monday';
+    $holidays[strtotime('-2 days',$easter)] ='Föstudagurinn langi';//'Good Friday';
+    //$holidays[strtotime('-48 days',$easter)] ='Bolludagur';// Bun Da;
+    //$holidays[strtotime('-47 days',$easter)] ='Sprengidagur';// Pancake Tuesda;
+    //$holidays[strtotime('-46 days',$easter)] ='Öskudagur';// Ash Wednesda;
+    $holidays[strtotime('-7 days',$easter)]='Pálmasunnudagur';//'Holy Thursday';
+    $holidays[strtotime('-3 days',$easter)]='Skírdagur';//'Holy Thursday';
+    $holidays[strtotime('+39 days',$easter)]='Uppstigningardagur';//'Ascension';
+    $holidays[strtotime('+49 days',$easter)]='Hvítasunnudagur';//'Whit Sunday';
+    $holidays[strtotime('+50 days',$easter)]='Annar í hvítasunnu';//'Whit Monday';
+    //$holidays[strtotime('first sunday of '.($year+$y).'-06-01')]='Sjómannadagurinn';
+    $holidays[strtotime('first monday of '.($year+$y).'-08-01')]='Verslunamanna';
+    //$holidays[strtotime('second sunday of '.($year+$y).'-05-01')]='Mæðradagurinn';
 
 
 	for($i=0;$i<365;$i++){
@@ -86,6 +77,7 @@ for($y=0;$y<$years_into_future;$y++){
 	}
 
 }
+
 
 $last_modified_ymd = date("Ymd");
 $last_modified_his = date("His");
